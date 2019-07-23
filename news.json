@@ -27,7 +27,7 @@
         "detailed_news": "BHADERWAH, Jul 18: Hailing from a nondescript hamlet in Jammu and Kashmir, Jubiksha Thakur (24), a fighter pilot in the Indian Air Force (IAF), is the new source of inspiration for young boys and girls in the state. In a series of motivational lectures, Thakur told students on Thursday that the decision to come to Bhadarwah to take part in the \"Sangam Youth Festival\" organised by the army changed her life forever as she decided to join the armed forces. Hailing from Billan Bowlian in Udhampur district, Thakur joined the IAF as a fighter pilot this year, one of the first few women in the country to have done so. Her motivational lectures, organised by the Rashtriya Rifles unit based at Bhadarwah, are inspiring youngsters, especially girls, in the state to make a mark in life. \u201cI decided that I had to go for it, whatever it took. I would want every young boy and girl wanting to become a fighter pilot to dream big,\u201d Thakur told. In her message to the students of Kendriya Vidyalaya and PG College Bhadarwah, she said, \u201cYour dreams may seem unconquerable at the moment. But you must chase those so hard that they become reality.\u201d Stating that a \"combination of average qualities\" in her made her unique, Thakur said, \u201cI climbed the ladder step by step, committing some mistakes as well, but kept going as I learned it the hard way. Instead of mourning over your failures and get into self pity, you should work harder to achieve your goals.\u201d She said being an NCC cadet helped her keep her nerves in the most difficult situations. The lectures were followed by question-answer sessions with the students. Aarushi, a Class 12 science student of Kendriya Vidyalaya, said she always thought becoming a doctor was the only option for her but Thakur''s words changed that. \u201cI already feel like flying as joining the army is my childhood dream. I will definitely strive harder to make my dream a reality,\u201d she said. Komal Katal (27) of Garh Bhadarwah village said, \u201cI always wanted to join the Army but in this part of the state, I never got an opportunity to try my luck. Although I could not appear in AFCAT (Air Force Common Admission Test) because of the age bar, after attending the lecture of Jubiksha, I will work harder and give it a try to join the Territorial Army.\u201d Besides Thakur, Commanding Officer, 4 Rashtriya Rifles Colonel D D Pandey also shared his experiences with the students. \u201cYou should be passionate about your dreams and to reach your destination, you should not hesitate and think longer to take your first step. Just start your journey today and you will definitely reach your destination,\u201d he said."
     },
     {
-        "sr_no": 39,
+        "sr_no": 37,
         "newspaper": "Greater Times",
         "headline": "India, Pakistan armies trade fire along LoC in Poonch",
         "link": "https://www.greaterkashmir.com/news/kashmir/india-pakistan-armies-trade-fire-along-loc-in-poonch-3/?utm_source=rss&utm_medium=rss&utm_campaign=india-pakistan-armies-trade-fire-along-loc-in-poonch-3",
@@ -36,7 +36,7 @@
         "detailed_news": ""
     },
     {
-        "sr_no": 46,
+        "sr_no": 44,
         "newspaper": "Hindustan Times",
         "headline": "\nMurdered rifleman Aurangzeb\u2019s brothers join army, vow to avenge his death\n",
         "link": "http://www.hindustantimes.com/india-news/murdered-rifleman-aurangzeb-s-brothers-join-army-vow-to-avenge-his-death/story-mN6UEKzcEcXGowb84m6EVI.html",
@@ -58,7 +58,7 @@
         ]
     },
     {
-        "sr_no": 59,
+        "sr_no": 57,
         "newspaper": "Hindustan Times",
         "headline": "\nIndian Army responds to MS Dhoni\u2019s request of training with Parachute regiment for 2 months - Reports\n",
         "link": "http://www.hindustantimes.com/cricket/army-chief-approves-ms-dhoni-s-request-of-training-with-parachute-regiment-for-2-months-reports/story-HUqfM3M9QLoM0ppMbcAUDI.html",
@@ -74,7 +74,25 @@
         ]
     },
     {
-        "sr_no": 61,
+        "sr_no": 58,
+        "newspaper": "Dawn",
+        "headline": "Vote count underway in Ghotki NA-205\n",
+        "link": "https://www.dawn.com/news/1495750/vote-count-underway-in-ghotki-na-205",
+        "brief": "",
+        "date": "July 23, 2019",
+        "detailed_news": [
+            "The vote count is underway and initial results have started pouring in as polling for the general seat of the Sindh Assembly \u2014 NA-205 \u2014 Ghotki, concluded peacefully.",
+            "Two powerful Mahars, who also happened to be maternal uncle and nephew, are contesting for the seat fallen vacant after the death of Ali Mohammad Khan Mahar, a former Sindh chief minister. The late Mahar was serving as the federal narcotics minister when he died.",
+            "Pakistan Peoples Party (PPP) candidate Sardar Mohammad Bux Khan Mahar is taking on his nephew Ahmed Ali Mahar \u2014 the son of the late Ali Mohammad Khan Mahar \u2014 an independent candidate who is supposed to be a part of the PTI after elections. ",
+            "Unofficial and unconfirmed results from 140 polling stations showed that Mohammad Bux Mahar was enjoying a lead of around 10,000 votes.",
+            "The constituency had 360,875 registered voters including 204,891 male and 155,935 female voters. A total of 290 polling stations were set up which include 56 each for male and female voters while 178 were combined polling stations.",
+            "Out of the total 290, the Election Commission of Pakistan (ECP) had declared 125 polling stations \"highly sensitive\" and 164 \"sensitive\".",
+            "Strict security arrangements were put in place under the ECP\u2019s directives. Army personnel were deployed inside the polling stations, despite opposition by the PPP.",
+            "NA-205 covers PS-20 and PS-21 which were won by Ali Gohar Khan Mahar of the anti-PPP Grand Democratic Alliance (GDA) and his brother Ali Nawaz Khan Mahar alias Raja Mahar as a PPP candidate, respectively, in the July 25, 2018 general elections."
+        ]
+    },
+    {
+        "sr_no": 60,
         "newspaper": "Dawn",
         "headline": "'Pakistan, US on the same page that there is no military solution to Afghanistan'\n",
         "link": "https://www.dawn.com/news/1495748/pakistan-us-on-the-same-page-that-there-is-no-military-solution-to-afghanistan",
@@ -84,46 +102,56 @@
             "Prime Minister Imran Khan, during an address delivered at the United States Institute of Peace on Tuesday, expressed confidence that there was \"convergence between the United States and Pakistan\" when it came to recognising that there is no military solution to deal with the war in Afghanistan.",
             "He said that he viewed the dynamic to be different now, as both sides were finally looking at things through the same lens.",
             "\"The Pakistan Army was fighting but they [the US] thought we are not doing enough [...] we had gone out of our way. But this time, we are all on the same page that only a political settlement through dialogue will work,\" said the prime minister.",
-            "In January this year, US Secretary of State Michael Pompeo had emphasised a new \"sustainable\" strategy of the US for fighting terrorism which seeks to end long, drawn-out wars",
+            "In January this year, US Secretary of State Michael Pompeo had emphasised a new \"sustainable\" strategy of the United States for fighting terrorism which seeks to end long, drawn-out wars",
             "\u201cPresident Trump very much wants to end these long, drawn-out [wars] \u2014 17 years now in Afghanistan,\u201d the chief US diplomat had said.",
-            "In today's discussion with Nancy Lindbord, the president of the United States Institute of Peace, PM Imran expressed great hope that a political settlement to the Afghan war can be reached and that the relationship between the US and Pakistan had great potential after this visit.",
+            "In today's discussion with Nancy Lindbord, the president of the United States Institute of Peace, PM Imran expressed great hope that a political settlement to the Afghan war can be reached and that the relationship between the United States and Pakistan had great potential after this visit.",
             "When asked what makes things different now in the relationship between the two countries compared to the past, the premier said: \"I always felt [previously] that the relationship was never multi-pronged, always transactional.\"",
-            "The premier, providing a backdrop to the circumstances that led to the present situation in Afghanistan, said that the 'jihadists' had been convinced to fight against Russia and once the 'jihad' was over, the US packed up and left and \"we were slapped with sanctions\".",
-            "\"We were left with four million Afghan refugees [...] a number of militant groups created to fight the Soviets, all dressed up and nowhere to go, heroin, drugs \u2014 which at some point were used to pay for the fighting,\" he continued to highlight the scale of the fallout after the war against the Soviets had ended.",
+            "The premier, providing a backdrop to the circumstances that led to the present situation in Afghanistan, said that the 'jihadists' had been convinced to fight against the Soviets and once the 'jihad' was over, the US packed up and left and \"we were slapped with sanctions\".",
+            "\"We were left with 4 million afghan refugees [...] a number of militant groups created to fight the Soviets, all dressed up and nowhere to go, heroin, drugs \u2014 which at some point were used to pay for the fighting,\" he continued, to highlight the scale of the fallout after the war had ended.",
             "He said that after 9/11 Pakistan again joined the US [in the fight against terrorism]. ",
-            "\"I only had one seat in parliament when Gen Musharraf consulted us [on whether we should join the war], I opposed it and said we should stay neutral.\"",
+            "\"I only had one seat in parliament. When Gen Musharraf consulted us [on whether we should join the war] I opposed it and said we should stay neutral.\"",
             "He then went on to explain, why he felt it would have been in Pakistan's best interest to remain neutral.",
             "\"We had created these 'jihadi' groups in the 80s. We had indoctrinated them in the idea of 'jihad'. That foreign occupation in Afghanistan [...] it was a religious duty to fight them. So all these foreign groups, including Al Qaeda had arrived in Pakistan.\"",
             "\"Now comes 9/11. And the US invades Afghanistan. And now we are trying to tell the same groups, who had close links with the Pakistan Army \u2014 because they were created by the Pakistan Army \u2014 now we are telling them because the good guys are there, its no longer 'jihad'.\"",
             "\"Now obviously, a lot of them turned against the Pakistan Army because the Pakistan Army was then trying to neutralise them.\"",
             "The premier said that the years that followed were \"the worst time in our history\".",
-            "\"These groups turned against the Pakistan Army and the state of Pakistan. And not only that, there were linkages between these groups and the Pakistan security forces because they had created them.",
-            "\"We had insider attacks, the GHQ was attacked, generals were killed, the ISI headquarters were attacked. The Army at one point could not go into the cities in military clothes or with military cars. It was that bad,\" said PM Imran, as he asserted his view of why Pakistan should have never gotten involved.",
+            "\"These groups turned against the Pakistan Army and the State of Pakistan. And not only that, there were linkages between these groups and the Pakistan security forces because they had created them.",
+            "\"We had insider attacks, the GHQ was attacked, the generals were killed, the ISI headquarters were attacked. The Army at one point could not go into the cities in military clothes or with military cars. It was that bad,\" said PM Imran, as he asserted his view of why Pakistan should have never gotten involved.",
             "\"The second thing was the tribal areas. We should never have sent our Army into the tribal areas. ",
             "\"The tribal area per capita was the most weaponised area in the world, he said,\" pausing to provide a brief history of the region that had been left autonomous post-British era and that had \"lived by its own rules\".",
-            "\"In 2004, under pressure from the US, the Pakistan Army went into the tribal areas to flush out Al Qaeda. What happened was, after Tora Bora in Afghanistan, a few of the Al Qaeda moved down into our tribal areas which were semi-autonomous. When they sent the Army in [...] you know armies are not meant to go into civilian areas.",
+            "\"In 2004, under pressure from the US, Pakistan Army went into the tribal areas to flush out Al Qaeda. What happened was, after Tora Bora in Afghanistan, a few of the Al Qaeda moved down into our tribal areas which were semi-autonomous. When they sent the Army in [...] you know armies are not meant to go into civilian areas.",
             "\"Whenever you send your army into civilian areas there will always be human rights abuses because there is no army there, there are just guerillas operating from villages.",
             "\"The collateral damage created what became the Pakistani Taliban. There was no Pakistani Taliban [group] before,\" he said.",
-            "\"In my opinion, we should have stayed neutral. That way we would have control over these militant groups and we could have, in our own time, neutralised them,\" he added, before going on to say: \"But because we became a part of the US war, they turned against Pakistan.\"",
-            "He said that what followed was a watershed moment in Pakistani politics, recounting the 2014 Army Public School massacre in which 150 school children were slaughtered by the TTP \u2014 the Pakistani faction of the Taliban. ",
+            "\"In my opinion we should have stayed neutral. That way we would have control over these militant groups and we could have, in our own time, neutralised them,\" he added, before going on to say: \"But because we became a part of the US war, they turned against Pakistan.\"",
+            "He said that what followed was a watershed moment in Pakistani politics, recounting the 2014 Army Public School massacre in which 150 school children were slaughtered by the TTP (Tehreek-i-Taliban Pakistan) \u2014 the Pakistani faction of the Taliban. ",
             "\"There was a reaction [to the APS tragedy] within Pakistan. All the political parties signed the NAP (National Action Plan) and we all decided that we will never allow any militant groups to operate within Pakistan.\"",
             "The premier said that because there had been such a sizable presence of these groups [estimating them to be around 30,000-strong] that had obtained \"training in some theatre \u2014 Afghanistan or Kashmir\", there had been a challenge which no one was willing to take previously.",
             "\"Prior to our government coming into power, past governments did not have the political will [...] we were the first government to start disarming militant groups. ",
-            "\"We have taken over their institutes, their seminaries, we have [placed] administrators there. For the first time, we have decided there will be no armed militias inside our country.\"",
-            "Lindbord then talked about the ongoing Afghan peace process and the possibility of a breakthrough and asked whether the Pakistani government is able and willing to make the commitments to help move the dialogues forward, especially if the Taliban and the government are not able to get a meeting organised.",
-            "To this, the premier responded by saying: \"The fear among the Pakistan military establishment was always that there would be a two-front situation. So there would be the eastern front, which is India, and if Afghanistan was also in the Indian sphere of influence then Pakistan would be sandwiched between the two.\"",
-            "He said owing to this worry, the military always wanted what it called \"strategic depth\".",
+            "\"We have taken over their institutes, their seminaries, we have [placed] administrators there. For the first time we have decided there will be no armed militias inside our country.\"",
+            "Lindbord then talked about the ongoing Afghan peace process and the possibility of a breakthrough and asked  whether the Pakistani government is able and willing to make the commitments to help move the dialogues forward, especially if the Taliban and the government are not able to get a meeting organised.",
+            "To this, the premier responded by saying: \"The fear amongst the Pakistan military establishment was always that there would be a two-front situation. So there would be the eastern front, which is India, and if Afghanistan was also in the Indian sphere of influence then Pakistan would be sandwiched between the two.\"",
+            "He said owing to this worry the military always wanted what it called \"strategic depth\".",
             "\"But this has changed. Today there is no concept in Pakistan of strategic depth. Because we feel that by interfering in Afghanistan, in order to secure the strategic depth, we have actually done a lot of damage to our own country. And for no rhyme or reason we have become partisan in Afghanistan's internal affairs. ",
-            "He said that in the past there was always this impression that the Pakistan Army is an independent entity and governments have no control over it. ",
+            "He said that in the past there was always this impression that Pakistan Army is an independent entity and governments have no control over it. ",
             "\"I can sit here and tell you that as I speak, the Pakistan Army is exactly behind the government's programme. Whatever policies from day one, whether it was peace with India, they were behind us,\" he said, pausing to mention that when he had decided to release the Indian pilot captured by the Army, they supported his decision.",
             "\"There is no difference between the policies of Pakistan's security forces or the policies of Pakistan's democratic government.\"",
             "He said that the Afghans should be \"left to decide what they want, what sort of government they want and we should facilitate the peace process\".",
             "\"So this is the big difference now. We are all on the same page...and fortunately the US is on the same page [...] 19 years of conflict and this could have gone on. Thank God for President Trump. This could have gone on for another 19 years without any result.\"",
+            "He then went on to talk about how free the media in Pakistan is, saying that he had spent 18 summers of his life in Britain where he had had noted that the media is very open and free.",
+            "\"The Pakistan media, in my opinion, is even freer than the British media [...] it is not just free but sometimes out of control,\" said the prime minister.",
+            "He went on to say that in Britain no media would have published the kind of remarks that the Pakistani media had since he had come into power.",
+            "\"A prime minister of a country and this man sits on television and says he is 'getting divorced tomorrow',\" he said, referring to rumours that had circulated in the media a few months ago about his allegedly rocky relationship with First Lady Bushra Bibi.",
+            "\"In the olden days, this guy would have been beaten up. In Nawaz Sharif's time, he had journalists beaten up. Asif Zardari \u2014 people were petrified of him. People would disappear,\" he said.",
+            "The premier said he, on the other hand, had gone through the legal channels to take action. ",
+            "\"So what we need, is to control the media, not through the government but through a media watchdog.",
+            "\"They reported wrongly that the IMF had said that the rupee would fall, to a number they quoted. There was a run on the rupee. Who would do that [anywhere else in the world]?\"",
+            "He said that the government was on the one hand struggling to revive the economy and on the other hand the media was falsely reporting such things and causing a run on the rupee.",
+            "\"I feel very strongly we will strengthen the media watchdog. It is not censorship. There are 70-80 channels in Pakistan. Only three reported they were having some problems.\"",
             "More to follow."
         ]
     },
     {
-        "sr_no": 79,
+        "sr_no": 78,
         "newspaper": "Tribune",
         "headline": "Trump accepts PM Imran's invitation for Pakistan visit",
         "link": "https://tribune.com.pk/story/2019293/1-trump-accepts-pm-imran-invitation-pakistan-visit/",
@@ -146,26 +174,7 @@
         ]
     },
     {
-        "sr_no": 83,
-        "newspaper": "Tribune",
-        "headline": "Bilawal supports PM Imran's efforts to 'engage with the world'",
-        "link": "https://tribune.com.pk/story/2019533/1-bilawal-supports-pm-imrans-efforts-engage-world/",
-        "brief": "",
-        "date": "July 23, 2019",
-        "detailed_news": [
-            "Pakistan Peoples Party (PPP) Chairman Bilawal Bhutto-Zardari on Tuesday extended\u00a0unconditional support to Prime Minister Imran Khan for\u00a0his efforts to \u2018engage with the world\u2019.",
-            "Bilawal, reacting to the meeting between PM Imran and President Trump,\u00a0took to social media to reiterate support for Pakistan despite \u201creservations with the premier\u201d.",
-            "Having said that in the greater national interest everyone should support Pakistan\u2019s efforts to engage the world. I therefor unconditionally support governments efforts. Will always provide constructive criticism when needed but will always support  first. 2/2 #TrumpHostsKhan",
-            "\u2014 BilawalBhuttoZardari (@BBhuttoZardari) July 23, 2019",
-            "I\u2018ve many reservations about our PM, his undemocratic politics & economically fatal polices. I also believe much of his conduct abroad particularly his jalsa is unbecoming of a PM who is supposed to represent  not just PTI. 1/2 #TrumpHostsKhan",
-            "\u2014 BilawalBhuttoZardari (@BBhuttoZardari) July 23, 2019",
-            "PM Imran arrives on three-day visit to US",
-            "On July 21, PM Imran arrived in Washington on his three-day visit to the United States, accompanied by\u00a0Chief of the Army Staff General Qamar Javed Bajwa, Adviser to PM on Commerce Abdul Razzak Dawood and Special Assistant on Overseas Pakistanis Zulfi Bukhari.",
-            "The premier\u2019s trip was originally planned in June but was postponed\u00a0because of prior domestic engagements, including the federal budget."
-        ]
-    },
-    {
-        "sr_no": 86,
+        "sr_no": 85,
         "newspaper": "Tribune",
         "headline": "\nPresident Trump gifts cricket bat to PM Imran\n",
         "link": "https://tribune.com.pk/story/2019386/1-president-trump-gifts-cricket-bat-pm-imran/",
@@ -181,7 +190,7 @@
         ]
     },
     {
-        "sr_no": 88,
+        "sr_no": 86,
         "newspaper": "Tribune",
         "headline": "\nVote count underway after polling concluded in Ghotki by-polls\n",
         "link": "https://tribune.com.pk/story/2019562/1-polling-underway-ghotki-polls/",
@@ -199,6 +208,34 @@
             "The ECP in June issued a show-cause notice to Prime Minister Imran Khan for visiting Ghotki ahead of the NA-205 by-election in violation of the commission\u2019s code of conduct.",
             "Imran was\u00a0in\u00a0Ghotki on a visit that the ruling party PTI\u00a0said was to condole the death of former federal minister Sardar Ali Muhammad Khan Mahar.",
             "The notice was issued after\u00a0a complaint was lodged by Pakistan Peoples Party\u2019s (PPP) NA-205 Ghotki-II candidate, Abdul Bari Pitafi."
+        ]
+    },
+    {
+        "sr_no": 92,
+        "newspaper": "Tribune",
+        "headline": "\nImran Khan suffers from Nawaz phobia, says Shehbaz Sharif\n",
+        "link": "https://tribune.com.pk/story/2019828/1-imran-khan-suffers-nawaz-phobia-says-shehbaz-sharif/",
+        "brief": "",
+        "date": "July 23, 2019",
+        "detailed_news": [
+            "LAHORE:\u00a0Pakistan Muslim League-Nawaz (PML-N) President Shehbaz Sharif has taken a swipe at Prime Minister Imran Khan for making \u201cpetty and personal attacks\u201d on incarcerated former premier Nawaz Sharif in his speeches in the United States.",
+            "\u201cImran Khan suffers from Nawaz phobia. He does not have the capacity to think about issues beyond NS (Nawaz Sharif),\u201d Shehbaz wrote on his official Twitter handle on Tuesday.",
+            "While calling the prime minister \u201cNiazi Sahib\u201d, leader of the opposition in the National Assembly said: \u201cOptics more than substance defined Niazi sahib\u2019s\u2019 tour to the US and his propensity for \u2018U-turns\u2019 was on full display in Washington.\u201d",
+            "Imran Khan suffers from Nawaz phobia. He does not have the capacity to think about issues beyond NS. Optics more than substance defined Niazi sahib's tour to the US. His propensity for 'U-turns' was on full display in Washington.",
+            "\u2014 Shehbaz Sharif (@CMShehbaz) July 23, 2019",
+            "In a separate statement issued on Tuesday, PML-N president said, \u201cImran wasted an important opportunity of sending a message of unity in his speeches in America. He should have talked about Pakistan and challenges that lie ahead but he chose to make petty and personal attacks on Nawaz.\u201d",
+            "He said Imran Niaz\u2019s vision of bankruptcy was now clear. \u201cHis pettiness is clear from his statements that he wants to take away TV and air-conditioner from Nawaz.\u201d",
+            "He said Imran had proven he was the most unfit person to hold the Prime Minister Office.",
+            "\u201cImran Niazi is focusing more on gimmicks like riding on buses and less on substantive issues that matter to the people of Pakistan. Imran Niazi has once again taken U-turns on his own statements,\u201d said Shehbaz. \u201cThe PM talked about bringing Aafia Siddiqui home, but he did not want journalists to ask him questions.\u201d",
+            "He said Imran had not mentioned resolution of Kashmir issue on the basis of UN resolutions. \u201cHas Imran changed Pakistan\u2019s policy on Kashmir? In America Imran exposed his dictatorial thinking by saying media needs to be controlled. He is lying by saying the media is free under his government while the media is suffering from the worst kind of censorship,\u201d he added.",
+            "Shehbaz demanded of the PM to explain to the nation how he had offered to \u201cdo more\u201d for America.",
+            "\u201cWhen Nawaz Sharif talked about better relations with India, Imran called him \u2018Modi\u2019s yaar\u2019, but now he is following the vision of Nawaz,\u201d he added.",
+            "Nawaz\u2019s vision was better relations with all neighbours. \u201cImran Niazi is now following Nawaz\u2019s vision,\u201d he added. \u201cHe has achieved nothing in his visit to America except proving he is unfit to be the prime minister of this country. He has proved he is a selected prime minister.\u201d",
+            "In separate statement, PML-N Information Secretary Marriyum Aurangzeb said, \u201cThe imposed dictatorial regime of the selected prime minister cannot succeed by denying freedom of expression and locking down the entire opposition and every voice of criticism.\u201d",
+            "Marriyum said if such tactics could guaranteed success of an imposed regime, dictatorships from 1958 till 2019 would have never ended. \u201cIf the country could have been run by choking freedom of the press and subjecting opposition to worst political victimisation, Musharraf would have been a lifetime ruler of Pakistan,\u201d she added.",
+            "The former information minister urged Imran not to malign the concept of a democratic republic through his fascist mindset.",
+            "These tactics, she said, could not solve the crisis of survival faced by the people of Pakistan who were struggling to feed their families courtesy to the PTI\u2019s economic policy disasters.",
+            "\u201cYou cannot silence the misery of 220 million people living in Pakistan because of your failures even if you continue putting opponents behind bars and shutting down the media,\u201d said Marriyum. \u201cThe nation is in a state of despair with soaring inflation, rising unemployment, crippling unfair taxes and lies of the selected prime minister and his army of rented spokespersons.\u201d"
         ]
     }
 ]
