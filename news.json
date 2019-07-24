@@ -80,7 +80,26 @@
         ]
     },
     {
-        "sr_no": 79,
+        "sr_no": 74,
+        "newspaper": "Tribune",
+        "headline": "\nPM Imran concludes US trip\n",
+        "link": "https://tribune.com.pk/story/2020133/1-pm-imran-concludes-us-trip/",
+        "brief": "",
+        "date": "July 24, 2019",
+        "detailed_news": [
+            "Prime Minister Imran Khan concluded his three-day visit to Washington and departed for Pakistan.",
+            "During his visit, the premier held talks with US President Donald Trump, interacted with Congressional leaders and addressed a think tank.",
+            "The Afghan peace process remained at the top of the agenda during his meetings with members of the Trump administration.",
+            "Imran has assured US that Pakistan will do everything within its power to facilitate the Afghan peace process.",
+            "In a tweet, he said the world owes it to the long-suffering Afghan people to bring about peace after four decades of conflict.",
+            "The premier thanked the US President Donald Trump for his warm and gracious hospitality and his understanding of Pakistan\u2019s point of view.",
+            "Imran appreciated the US President for taking out time to show Pakistani delegation the historic White House private quarters.",
+            "The prime minister also spoke to Pakistani-Americans at Capital Arena that turned out to be one of the biggest ever gatherings addressed by a Pakistani leader.",
+            "The premier was accompanied by Adviser to PM on Commerce, Abdul Razzak Dawood, Special Assistant on Overseas, Zulfi Bukhari, and Chief of the Army Staff, General Qamar Javed Bajwa, while Foreign Minister Shah Mehmood Qureshi."
+        ]
+    },
+    {
+        "sr_no": 80,
         "newspaper": "Tribune",
         "headline": "Imran Khan suffers from Nawaz phobia, says Shehbaz Sharif",
         "link": "https://tribune.com.pk/story/2019828/1-imran-khan-suffers-nawaz-phobia-says-shehbaz-sharif/",
