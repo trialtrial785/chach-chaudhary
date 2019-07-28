@@ -54,7 +54,7 @@
         "detailed_news": "Imran Khan must root out the terror infrastructure and prosecute the culprits"
     },
     {
-        "sr_no": 74,
+        "sr_no": 75,
         "newspaper": "Dawn",
         "headline": "Taliban reject direct talks with Afghan government",
         "link": "https://www.dawn.com/news/1496714/taliban-reject-direct-talks-with-afghan-government",
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "sr_no": 85,
+        "sr_no": 86,
         "newspaper": "Tribune",
         "headline": "US State Dept approves proposed support package for Pakistan's F-16 fleet",
         "link": "https://tribune.com.pk/story/2022406/3-us-approves-sales-support-pakistans-f-16s/",
@@ -135,7 +135,28 @@
         ]
     },
     {
-        "sr_no": 97,
+        "sr_no": 90,
+        "newspaper": "Tribune",
+        "headline": "Pakistan, Turkey naval special forces complete joint exercise",
+        "link": "https://tribune.com.pk/story/2023366/1-pakistan-turkey-naval-special-forces-complete-joint-exercise/",
+        "brief": "",
+        "date": "July 28, 2019",
+        "detailed_news": [
+            "KARACHI:\u00a0Pakistan Navy Special Services Group (SSGN) and Turkish Navy Special Forces, Su Alti Taarruz (SAT), successfully completed a joint exercise, AYYILDIZ-2019, in Karachi on Sunday.",
+            "The exercise included training in anti-terrorism, hostage rescue, counter-terrorism in the maritime domain, and intelligence-based operations.",
+            "The 12-day exercise was aimed at strengthening military relations, inter-operability\u00a0and to exchange professional expertise\u00a0of the\u00a0special forces.",
+            "This was the 12th exercise in the AYYILDIZ series, which\u00a0is an\u00a0annual feature between Pakistan and Turkey and reflects the strong bilateral military ties between the two countries.",
+            "Russia, Pakistan military to hold joint drills",
+            "Islamabad and Ankara have\u00a0also collaborated on various defence forums and taken part in multilateral exercises.",
+            "Pakistan will also soon participate in joint drills with Russia. Moscow recently announced that \u2018Friendship-2019\u2019 will be held in Russia in early October.",
+            "\u201cThe joint exercise will be held with the aim of exchanging experience between military personnel, developing and strengthening military-technical cooperation between the two countries,\u201d the Russian defence ministry said in a statement.",
+            "Mixed special-purpose groups consisting of Russian and\u00a0Pakistani military personnel will perform combat training tasks using Russian armament, it said.",
+            "The drills will be held at the Molkino training range in the southern Russian Krasnodar region and will involve about 50 Russian servicemen from special forces units.",
+            "\u00a0"
+        ]
+    },
+    {
+        "sr_no": 98,
         "newspaper": "Daily Excelsior",
         "headline": "Two Army jawans injured  in road accident in Srinagar",
         "link": "https://www.dailyexcelsior.com/two-army-jawans-injured-in-road-accident-in-srinagar/",
@@ -144,7 +165,7 @@
         "detailed_news": "<p>SRINAGAR: Two Army jawans were injured in a road accident in the outskirts of the summer capital, on Sunday. Official sources said that an Army vehicle, which was part of a convoy, skidded off the road and turned turtle near Nowgam in the city outskirts. \u201cTwo jawans were injured in the accident,\u201d they said. They [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.dailyexcelsior.com/two-army-jawans-injured-in-road-accident-in-srinagar/\">Two Army jawans injured  in road accident in Srinagar</a> appeared first on <a rel=\"nofollow\" href=\"https://www.dailyexcelsior.com\">Jammu Kashmir Latest News | Tourism | Breaking News J&amp;K</a>.</p>\n"
     },
     {
-        "sr_no": 99,
+        "sr_no": 100,
         "newspaper": "Daily Excelsior",
         "headline": "Army pays tribute to soldier martyred in operation to foil infiltration bid",
         "link": "https://www.dailyexcelsior.com/army-pays-tribute-to-soldier-martyred-in-operation-to-foil-infiltration-bid/",
