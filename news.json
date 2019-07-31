@@ -36,7 +36,7 @@
         "detailed_news": "Mahendra Singh Dhoni, an honorary lieutenant colonel in the Territorial Army, joined Army troops in the militancy-hit south Kashmir region on Wednesday to carry out patrolling, guard duties and similar responsibilities just like other soldiers. The former Indian cricket team captain will be staying with his 106 TA Battalion (Para) till August 15 and under<a class=\"moretag\" href=\"https://www.greaterkashmir.com/news/kashmir/dhoni-joins-army-soldiers-in-militancy-hit-south-kashmir-on-2-week-stint/\">Read More</a>"
     },
     {
-        "sr_no": 65,
+        "sr_no": 67,
         "newspaper": "Dawn",
         "headline": "US peace envoy for Afghanistan set to resume talks with Taliban: sources",
         "link": "https://www.dawn.com/news/1497284/us-peace-envoy-for-afghanistan-set-to-resume-talks-with-taliban-sources",
@@ -58,7 +58,26 @@
         ]
     },
     {
-        "sr_no": 72,
+        "sr_no": 73,
+        "newspaper": "Tribune",
+        "headline": "Pakistan Army stands by Saudi military, reiterates Gen Qamar",
+        "link": "https://tribune.com.pk/story/2025415/1-pakistan-army-stands-saudi-military-fields-gen-qamar/",
+        "brief": "",
+        "date": "July 31, 2019",
+        "detailed_news": [
+            "Chief of Army Staff (COAS) General Qamar Javed Bajwa has reiterated the resolve of Pakistan Army to cooperate with the Saudi armed forces in all fields of mutual interest.",
+            "\u201cPakistan Army stands by Saudi armed forces in all fields,\u201d he said while meeting Saudi Media Minister Turki bin Abdullah Al Shabanah and Military Adviser to KSA\u2019s Defence Minister Major General Talal Abdullah Alotaibi at the General Headquarters in Rawalpindi on Wednesday.",
+            "Saudi Arabia\u2019s Ambassador to Pakistan Nawaf Saeed al Maliky was also present during the meeting, according to the Inter-Services Public Relations (ISPR).",
+            "\u201cRegional security situation and matters of mutual interest discussed. The COAS said that both countries have history of defence cooperation which Pakistan greatly values,\u201d the military media wing added in a statement.",
+            "Pakistan, Saudi Arabia to expand bilateral ties in diverse fields",
+            "Gen Qamar also offered condolences on the death of Prince Bandar Bin Abdul Aziz Al-Saud on the occasion.",
+            "Earlier in the day, the Saudi media minister met Foreign Minister Shah Mahmood Qureshi in Islamabad, where the two countries agreed to expand bilateral cooperation in the fields of information and culture.",
+            "Speaking on the occasion, the foreign minister termed the establishment of Pak-Saudi Supreme Coordination Council an important step toward promotion of political, economic and cultural cooperation between the two countries.",
+            "Qureshi also thanked the Saudi government for increasing Hajj quota for Pakistan to 200,000."
+        ]
+    },
+    {
+        "sr_no": 74,
         "newspaper": "Tribune",
         "headline": "Nine of a family among Pindi crash victims",
         "link": "https://tribune.com.pk/story/2024911/1-nine-family-among-pindi-crash-victims/",
@@ -101,7 +120,33 @@
         ]
     },
     {
-        "sr_no": 76,
+        "sr_no": 75,
+        "newspaper": "Tribune",
+        "headline": "Talks with US on Afghan endgame today",
+        "link": "https://tribune.com.pk/story/2025499/1-talks-us-afghan-endgame-today/",
+        "brief": "",
+        "date": "August 1, 2019",
+        "detailed_news": [
+            "ISLAMABAD:\u00a0Pakistan and the US is going to hold a crucial round of talks in the federal capital today (Thursday) to discuss the ongoing Afghan peace process which, officials believe, entered a decisive phase.",
+            "US special representative for peace in Afghanistan, Zalmay Khalilzad, along with senior officials are scheduled to meet Pakistani civil and military authorities to review the progress in the Afghan peace talks, officials told The Express Tribune on Wednesday.",
+            "Khalilzad is traveling to Islamabad as a follow-up of the recent visit by Prime Minister Imran Khan to Washington where he had assured President Donald Trump that Pakistan would do \u2018whatever in its power\u2019 to facilitate the Afghan peace process.",
+            "The US, it is said, has requested Pakistan to persuade the Afghan Taliban to declare a permanent ceasefire and hold intra-Afghan dialogue.",
+            "Talks between Pakistan and the US are taking place amid reports that the Trump administration is close to signing an MoU with the Taliban during the upcoming talks in Doha.",
+            "The MoU is reportedly about the timeframe for the US troop withdrawal from Afghanistan and the Taliban guarantees of not allowing the Afghan soil to be ever used again by terrorist groups such as Al Qaeda.",
+            "Khalilzad, who so far held eight rounds of talks with the Taliban in Doha, was in Kabul this week to take the Afghan government on board about the possible MoU the US is planning to sign with the Taliban.",
+            "Khalilzad is due to travel to Doha soon to hold another round of negotiations with the Taliban. But before that he has decided to make a stopover in Islamabad on his way to Doha.",
+            "\u201cI\u2019m off to Doha, with a stop in Islamabad. In Doha, if the Taliban do their part, we will do ours, and conclude the agreement we have been working on,\u201d Khalilzad tweeted.",
+            "\u201cWrapping up my most productive visit to #Afghanistan since I took this job as Special Rep. The US and Afghanistan have agreed on next steps. And a negotiating team and technical support group are being finalized,\u201d he added.",
+            "Reports suggest that once the US and the Taliban agreed on a framework for the troop withdrawal, the next phase would focus on the intra-Afghan dialogue and seeking a permanent ceasefire in Afghanistan.",
+            "Last week, an Afghan minister announced that a 15-member government delegation would be soon meeting the Taliban in some European country in first direct talks with the insurgents.",
+            "The Taliban; however, were quick to reject the claims, insisting that they would only enter into talks with other Afghan rival groups \u2014 including the Ghani administration \u2014 once the deal with the US was struck.",
+            "Given that now the Taliban and the US are close to signing a deal, it is likely that the insurgent groups will go ahead meeting the Afghan government\u2019s delegation in Oslo next week.",
+            "The official sources said Pakistan as a responsible country was playing a constructive role in facilitating the peace process.",
+            "But Pakistan is also treading a careful path as Foreign Minister Shah Mehmood Qureshi clarified the other day that Islamabad would only facilitate but not become a guarantor in the Afghan peace deal."
+        ]
+    },
+    {
+        "sr_no": 78,
         "newspaper": "Tribune",
         "headline": "Ceasefire violations indicate India\u2019s frustration: DG ISPR",
         "link": "https://tribune.com.pk/story/2025199/1-ceasefire-violations-indicate-indias-frustration-dg-ispr/",
@@ -121,7 +166,7 @@
         ]
     },
     {
-        "sr_no": 77,
+        "sr_no": 79,
         "newspaper": "Tribune",
         "headline": "Pakistan lodges strong protest with India against LoC firing",
         "link": "https://tribune.com.pk/story/2025032/1-pakistan-lodges-strong-protest-india-loc-firing/",
@@ -141,52 +186,55 @@
         ]
     },
     {
-        "sr_no": 79,
+        "sr_no": 81,
         "newspaper": "Tribune",
-        "headline": "Don't look for shortcuts in life, army chief tells youth",
-        "link": "https://tribune.com.pk/story/2025300/1-dont-look-shortcuts-life-army-chief-tells-youth/",
+        "headline": "PM Imran's 'official working visit' to US costs only Rs11m to exchequer",
+        "link": "https://tribune.com.pk/story/2025326/1-pm-imrans-official-working-visit-us-costs-rs11m-exchequer/",
         "brief": "",
-        "date": "July 31, 2019",
+        "date": "August 1, 2019",
         "detailed_news": [
-            "Army chief General Qamar Javed Bajwa advised on Wednesday the country\u2019s youth not to opt for shortcuts in life in order to attain success.",
-            "The chief of army staff made the remarks while interacting with\u00a0students and young professionals\u00a0taking part in the summer internship programme at ISPR, the military\u2019s media wing.",
-            "\u201cPakistan is blessed with\u00a0dynamic and talented youth and future of the country belongs to them,\u201d Gen Qamar was quoted as saying.",
-            "COAS interacted with youth undergoing annual internship program at ISPR. \u201cPakistan is blessed with dynamic and talented youth and future of Pakistan belongs to them\u201d, COAS. pic.twitter.com/UywMYJozAj",
-            "\u2014 DG ISPR (@OfficialDGISPR) July 31, 2019",
-            "He expressed full confidence in the youth, expecting them to\u00a0play their due role in Pakistan\u2019s prosperity.",
-            "Gen Qamar said Pakistan had been subjected to numerous challenges especially during the last two decades but the nation and its armed forces successfully withstood the hurdles with the youth having played a lead role in it.",
-            "\u201cHave confidence in yourself, adhere to merit, follow rule of law, and don't look for shortcuts in life for success\u201d, COAS. pic.twitter.com/NvKvTuDViV",
-            "\u2014 DG ISPR (@OfficialDGISPR) July 31, 2019",
-            "The COAS advised the youth to have confidence in themselves, as well as, adhering to merit and following the rule of law.",
-            "The army chief has been vocal about the role he wants the millenials\u00a0to play in Pakistan\u2019s progression.\u00a0Last year at NUST, he emphasised on the youth to always ask themselves what they could do for their country."
+            "KARACHI:\u00a0With the nation taking keen interest into the official expenses of Prime Minister Imran Khan, the federal government released the costs of his recent three-day trip to the United States on Thursday.",
+            "The premier\u2019s maiden visit to Washington was followed by immense fanfare with the government vowing not\u00a0to follow in the footsteps of former PPP and PML-N regimes when it came to travel and living costs.",
+            "PM Imran\u2019s visit cost almost Rs11 million to the national exchequer, which comes down to\u00a0$67,180, according to the details released by the government.",
+            "He took a 27-member delegation on his maiden trip, and flew on a commercial Qatar Airways flight with a stopover in Doha, instead of opting to charter an entire plane.",
+            "Rs1.35 million were spent on the hotel expenses for the PM\u2019s delegation with Rs6 million ditched out on their travelling expenses.",
+            "Meanwhile, the prime minister gave gifts of Rs142,000 and spent Rs700,000 on tips.",
+            "Rs1.3 million were spent on food and refreshments.",
+            "He stayed\u00a0at the Pakistani ambassador\u2019s official residence, and not an expensive hotel during the official visit.",
+            "In comparison, according to the government\u2019s claim, former premier Nawaz Sharif had doled out $549,854 during his 2015 trip to the US whereas PPP Supremo Asif Ali Zardari spent $752,682.",
+            "Facts speak for themselves! And it does not take spending huge amounts of public money to achieve tangible results for the country as PM IK's successful USA visit demonstrated! pic.twitter.com/dCjzIVE2pa",
+            "\u2014 Shireen Mazari (@ShireenMazari1) July 31, 2019",
+            "The trip was mostly hailed as a major diplomatic win for Islamabad with Trump even offering to mediate the Kashmir dispute between Pakistan and India.",
+            "This caught New Delhi off-guard and was unexpected by the media and analysts.",
+            "President Trump also reached out to premier Imran for his government to help negotiate a deal with the Taliban to end the longstanding conflict in Afghanistan."
         ]
     },
     {
-        "sr_no": 85,
-        "newspaper": "Daily Excelsior",
-        "headline": "At least 28 killed as Afghan bus hits \u2018Taliban\u2019 bomb: official",
-        "link": "https://www.dailyexcelsior.com/at-least-28-killed-as-afghan-bus-hits-taliban-bomb-official/",
-        "brief": "",
-        "date": "Wed, 31 Jul 2019 18:34:34 +0000",
-        "detailed_news": "<p>&#160; HERAT, July 31:Dozens of passengers, mainly women and children, were killed in western Afghanistan early Wednesday when the bus they were travelling in hit a roadside bomb, officials said. \u201cA passenger bus travelling on the Kandahar-Herat highway hit a Taliban roadside bomb. So far at least 28 killed, 10 wounded,\u201d said Muhibullah Muhib, the [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.dailyexcelsior.com/at-least-28-killed-as-afghan-bus-hits-taliban-bomb-official/\">At least 28 killed as Afghan bus hits \u2018Taliban\u2019 bomb: official</a> appeared first on <a rel=\"nofollow\" href=\"https://www.dailyexcelsior.com\">Jammu Kashmir Latest News | Tourism | Breaking News J&amp;K</a>.</p>\n"
-    },
-    {
-        "sr_no": 101,
+        "sr_no": 95,
         "newspaper": "State Times",
-        "headline": "Terrorist hideout busted in Kupwara",
-        "link": "http://news.statetimes.in/terrorist-hideout-busted-in-kupwara-2/",
+        "headline": "Inter-APSs Cluster-I Football Tournament culminates at APS BD Bari",
+        "link": "http://news.statetimes.in/inter-apss-cluster-i-football-tournament-culminates-at-aps-bd-bari/",
         "brief": "",
-        "date": "Wed, 31 Jul 2019 18:30:31 +0000",
-        "detailed_news": "STATE TIMES NEWSKUPWARA: Security forces on Wednesday busted a terrorist hideout in a forest area of Lolab in north Kashmir&#8217;s Kupwara district and recovered a huge cache of arms and ammunition, as official said. He said acting on specific information, SOG Sogam and 28RR Army launched a joint search operation in a forest area in [&#8230;]"
+        "date": "Wed, 31 Jul 2019 19:38:49 +0000",
+        "detailed_news": "STATE TIMES NEWS JAMMU: Army Public School Damana won the title trophy of Inter-APSs Cluster-I Football Tournament held at APS BD Bari, here on Wednesday. In the final played today, Army Public School Damana defeated Army Public School Jammu Cantt in a tough fight. In the three-day long tournament eight Army Public Schools viz, APS [&#8230;]"
     },
     {
-        "sr_no": 111,
-        "newspaper": "Tribune",
-        "headline": "Don\u2019t look for shortcuts in life, army chief tells youth",
-        "link": "https://tribune.com.pk/story/2025300/1-dont-look-shortcuts-life-army-chief-tells-youth/",
+        "sr_no": 103,
+        "newspaper": "State Times",
+        "headline": "J&K Police fought terrorism with utmost courage: DGP",
+        "link": "http://news.statetimes.in/jk-police-fought-terrorism-with-utmost-courage-dgp/",
         "brief": "",
-        "date": "Wed, 31 Jul 2019 16:40:49 +0000",
-        "detailed_news": "<p>Gen Qamar Bajwa interacts with youth enrolled at ISPR internship programme</p>\n<p>The post <a rel=\"nofollow\" href=\"https://tribune.com.pk/story/2025300/1-dont-look-shortcuts-life-army-chief-tells-youth/\">Don&#8217;t look for shortcuts in life, army chief tells youth</a> appeared first on <a rel=\"nofollow\" href=\"https://tribune.com.pk\">The Express Tribune</a>.</p>\n"
+        "date": "Wed, 31 Jul 2019 19:02:46 +0000",
+        "detailed_news": "STATE TIMES NEWSSRINAGAR: Continuous vigil needs to be maintained to curb the activities of anti-national elements and criminals to ensure peaceful atmosphere in the State. This was stated by Director General of Police Dilbag Singh who was on a day long visit to Bandipora and Baramulla, districts of North Kashmir where he chaired meetings of [&#8230;]"
+    },
+    {
+        "sr_no": 109,
+        "newspaper": "Tribune",
+        "headline": "Pakistan Army stands by Saudi military, reiterates Gen Qamar",
+        "link": "https://tribune.com.pk/story/2025415/1-pakistan-army-stands-saudi-military-fields-gen-qamar/",
+        "brief": "",
+        "date": "Wed, 31 Jul 2019 18:50:59 +0000",
+        "detailed_news": "<p>Saudi media minister and military adviser meet COAS at GHQ</p>\n<p>The post <a rel=\"nofollow\" href=\"https://tribune.com.pk/story/2025415/1-pakistan-army-stands-saudi-military-fields-gen-qamar/\">Pakistan Army stands by Saudi military, reiterates Gen Qamar</a> appeared first on <a rel=\"nofollow\" href=\"https://tribune.com.pk\">The Express Tribune</a>.</p>\n"
     },
     {
         "sr_no": 118,
