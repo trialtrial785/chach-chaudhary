@@ -36,15 +36,6 @@
         "detailed_news": "A gunfight broke out between security forces and militants at Baktur area of Gurez on LoC in north Kashmir\u2019s Bandipora district on Tuesday, reports said. Local news agency GNS reported that three militants were killed in the encounter. However, no police or Army officer confirmed the toll. &#8220;&#8221;Operation is going on in the area, however<a class=\"moretag\" href=\"https://www.greaterkashmir.com/news/kashmir/gunfight-rages-in-gurez/\">Read More</a>"
     },
     {
-        "sr_no": 35,
-        "newspaper": "Hindustan Times",
-        "headline": "Sukhoi jet damaged after bird-hit at Jodhpur airbase",
-        "link": "https://www.hindustantimes.com/india-news/sukhoi-jet-damaged-after-bird-hit-at-jodhpur-airbase/story-g129YlwZ1IxE2iAD0gdm2N.html",
-        "brief": "",
-        "date": "Wed, 31 Jul 2019 05:32:39 GMT ",
-        "detailed_news": "The incident was recounted on Monday by Jodhpur airbase Air Officer-in-Command Phillip Thomas to the district administration, which is responsible for the upkeep of the open portion of a drain outside the military aerodrome, the source of the problem."
-    },
-    {
         "sr_no": 37,
         "newspaper": "Hindustan Times",
         "headline": "V G Siddhartha: An army aspirant who founded India's biggest coffee chain",
@@ -63,7 +54,40 @@
         "detailed_news": "Imran Khan must root out the terror infrastructure and prosecute the culprits"
     },
     {
-        "sr_no": 58,
+        "sr_no": 56,
+        "newspaper": "Dawn",
+        "headline": "North Korea fires two ballistic missiles: South",
+        "link": "https://www.dawn.com/news/1497269/north-korea-fires-two-ballistic-missiles-south",
+        "brief": "",
+        "date": "July 31, 2019",
+        "detailed_news": [
+            "Pyongyang fired two ballistic missiles on Wednesday, Seoul said, days after a similar launch that the nuclear-armed North described as a warning to the South over planned joint military drills with the United States. ",
+            "The two devices were fired from the Wonsan area on the east coast at dawn and flew around 250 kilometres into the sea, said South Korea's Joint Chiefs of Staff. ",
+            "\u201cWe stress a series of missile launches do not help ease tensions in the Korean Peninsula and urge the North to refrain from such acts,\u201d they said in a statement, while the presidential Blue House expressed \u201cstrong concern\u201d.",
+            "The North is banned from ballistic missile launches under United Nations Security Council resolutions but it was the second such firing in less than a week, despite a meeting between leader Kim Jong Un and US President Donald Trump last month. ",
+            "Pyongyang and Washington are engaged in a long-running diplomatic process over the North's nuclear and missile programmes that has seen three high-profile encounters between their leaders in the space of a year. ",
+            "They agreed to resume talks during their impromptu June encounter in the Demilitarised Zone that divides the peninsula, but that working-level dialogue has yet to begin. ",
+            "Pyongyang has warned the negotiations could be derailed by Washington and Seoul's refusal to scrap the annual manoeuvres between their forces. ",
+            "The North has defied years of isolation and sanctions to develop its arsenal and has not given up any of its weapons, while proving itself adept at dragging out discussions. ",
+            "On his way to an Asian regional forum where the North will be high on the agenda \u2014 even though its foreign minister will apparently not attend \u2014 US Secretary of State Mike Pompeo told reporters that the talks had been expected \u201cwithin weeks\u201d but were taking \u201ca little bit longer\u201d to start. ",
+            "There was no immediate comment from Pyongyang on the latest launch, but Harry Kazianis of the Center for the National Interest in Washington said it was a warning to the two security allies to stop the exercises or the North will \"raise tensions to a slow boil over time\". ",
+            "Pyongyang will carry out more launches before the drills begin next week and again afterwards, he predicted. ",
+            "\"The only question is: would the Kim regime dare test an ICBM, or a long-range missile, that could hit the US homeland?\"",
+            "With its short-range launches, Pyongyang was looking to pressure Washington to \u201ccome to the table with more readiness to meet its demands\u201d, added Jeong Young-tae, director of the Institute of North Korean Studies. ",
+            "Last Thursday's missiles travelled much further \u2014 one of them going nearly 700 kilometres \u2014 than Wednesday's, and also reached a higher altitude, 50 kilometres compared to 30. ",
+            "Pyongyang said they were newly designed \u201ctactical guided weapons\u201d that were a \u201csolemn warning to the South Korean warmongers\u201d over the planned military drills with the US. ",
+            "The North also showed off a new submarine last week, which reports on Wednesday cited the South's defence ministry as saying appeared to be capable of carrying three submarine-launched ballistic missiles. ",
+            "Washington stations nearly 30,000 troops in the South to defend it from its neighbour, which invaded in 1950. ",
+            "The devices were widely described as ballistic missiles, including by the US-South Korean Combined Forces Command and the government in Seoul. ",
+            "But Trump \u2014 who has repeatedly touted his relationship with Kim, whose regime is widely accused of human rights abuses \u2014 brushed off the North's bellicose language, saying it was warning Seoul rather than Washington. ",
+            "\u201cHe didn't send a warning to the United States,\u201d Trump said. \u201cThey have their disputes, the two of them have their disputes.\u201d ",
+            "The Korea Times condemned what it called the US president's \u201cwillful ignorance\u201d in an editorial Tuesday, before the latest launches. ",
+            "Trump \"gives the impression that he doesn't mind its missile launches as long as they are short-range, and not threatening the US\", it said. ",
+            "\u201cSuch a way of thinking is frustrating \u2014 and dangerous,\u201d it added. \"Most of all, he can give the wrong signal to the North that the US will not step in as long as it does not target the US mainland. What about US allies in Asia?\""
+        ]
+    },
+    {
+        "sr_no": 61,
         "newspaper": "Dawn",
         "headline": "At least 28 killed as Afghan bus hits 'Taliban' bomb: official",
         "link": "https://www.dawn.com/news/1497265/at-least-28-killed-as-afghan-bus-hits-taliban-bomb-official",
@@ -89,7 +113,7 @@
         ]
     },
     {
-        "sr_no": 64,
+        "sr_no": 67,
         "newspaper": "Dawn",
         "headline": "Sudan talks cancelled as teenagers\u2019 killing triggers outrage",
         "link": "https://www.dawn.com/news/1497221/sudan-talks-cancelled-as-teenagers-killing-triggers-outrage",
@@ -117,29 +141,23 @@
         ]
     },
     {
-        "sr_no": 68,
-        "newspaper": "Dawn",
-        "headline": "Trump nominee worries intelligence community",
-        "link": "https://www.dawn.com/news/1497226/trump-nominee-worries-intelligence-community",
+        "sr_no": 69,
+        "newspaper": "Tribune",
+        "headline": "Pakistan lodges strong protest with India against LoC firing",
+        "link": "https://tribune.com.pk/story/2025032/1-pakistan-lodges-strong-protest-india-loc-firing/",
         "brief": "",
-        "date": "Updated July 31, 2019",
+        "date": "July 31, 2019",
         "detailed_news": [
-            "WASHINGTON: President Donald Trump\u2019s choice of a lawmaker with limited experience to oversee the massive US intelligence community has sparked concerns over the possible politicisation of crucial national security decisions.",
-            "Trump declared on Tuesday that John Ratcliffe is  \u201cstrong\u201d and  \u201ctalented\u201d, two days after announcing the Republican congressman as his pick to replace Dan Coats as Director of National Intelligence, the person who coordinates the 17 agencies that make up the US intelligence community.",
-            "But strong criticism of the choice from Democrats and a tepid response from key Republicans \u2014 some say they had never met him \u2014 put a question mark over whether Ratcliffe can gain Senate confirmation.",
-            "\u201cI\u2019m gravely concerned when it appears that the president is trying to look for someone who will be a political loyalist rather than that independent voice standing up for the intelligence community,\u201d said Democratic Senator John Warner.",
-            "\u201cI don\u2019t know John, but I look forward to getting to know him,\u201d said Senator Richard Burr, chairman of the Senate Intelligence Committee, which must approve the nomination.",
-            "Coats, previously a longtime legislator on the Senate Intelligence Committee and US ambassador to Germany, spent 24 months as DNI quietly advancing and defending the intelligence community\u2019s global threats assessments.",
-            "Occasionally Coats publicly challenged Trump\u2019s rejection of those views, especially on Russia, Iran and North Korea.",
-            "Ratcliffe, by comparison, has made his name over four years in the House of Representatives as a staunch defender of the president.",
-            "Like many Trump appointees, he frequently appears on Fox News repeating conservative conspiracy theories, like alleging that special counsel Robert Mueller\u2019s investigation into Russian election interference was a political hit-job by Democrats working with US intelligence. \u201cSo was the Trump investigation really about our national security \u2014 or was it politically motivated?\u201d he said last year.",
-            "\u201cJohn Ratcliffe is a good man,\u201d Trump said Tuesday.  \u201cHe\u2019s a very talented guy. Strong man. It\u2019s what we need in that position.\u201d",
-            "Ratcliffe, 53, would take over a crucial job that involves collating and distilling intelligence from the CIA, the National Security Agency, the FBI, the Pentagon and other bodies, to prioritise for the president the threats the country faces.",
-            "All previous directors have been former diplomats steeped in security and military issues, senior Pentagon officials, and intelligence agency chiefs.",
-            "Ratcliffe\u2019s resume is thin: before arriving in Congress in 2015, he was mayor of a small, wealthy lakeside suburb of Dallas, Texas for eight years, a staff lawyer for the local federal district attorney, and then interim district attorney for just one year in 2007.",
-            "His office in Congress has claimed that during that time he investigated and prosecuted major terror cases, but there is no evidence of that in available court records.",
-            "In Congress he has served on the House Intelligence Committee only since January, where he has made a mark attacking the Mueller investigation and insinuating that the intelligence community itself threatens the president.",
-            "Published in Dawn, July 31st, 2019"
+            "ISLAMABAD:\u00a0The Foreign Office summoned Indian Acting Deputy High Commissioner Gaurav Ahluwalia on Wednesday to lodge a protest against unprovoked firing by Indian forces along the Line of Control (LoC).",
+            "At least one civilian was martyred and nine others \u2013 including women and children \u2013 were injured when the Indian forces fired mortars and artillery at the civilian population on the Pakistani side of the LoC.",
+            "\u201cThe deliberate targeting of civilian populated areas is indeed deplorable and contrary to human dignity, international human rights and humanitarian laws,\u201d a press release from the Foreign Office stated adding that the ceasefire violations by India were a threat to regional peace and security and may lead to a strategic miscalculation.",
+            "Civilian martyred in unprovoked Indian firing",
+            "It further said that the Indian occupation forces along the LoC and working boundary were continuously targeting civilian populated areas with heavy mortars and automatic weapons.",
+            "\u201cThis unprecedented escalation in ceasefire violations by India is continuing from the year 2017 when the Indian forces committed 1970 ceasefire violations,\u201d it added.",
+            "Director General (SA & SAARC) Dr Mohammad Faisal urged the Indian side to respect the 2003 ceasefire arrangement; investigate these and other incidents of ceasefire violations; instruct the Indian forces to respect the ceasefire, in letter and spirit and maintain peace on the LoC and the working boundary.",
+            "He demanded that the Indian side permit UNMOGIP to play its mandated role as per the UN Security Council resolutions.",
+            "DG ISPR Major General Asif Ghafoor, in a tweet, said that the increased ceasefire violations by Indian forces indicate their frustration due to failure in occupied Kashmir.",
+            "\u201cPakistan Army shall take all measures to protect innocent civilians along LOC from Indian firing deliberately targeting them,\u201d he said adding that ceasefire violations are being and shall always be effectively responded."
         ]
     },
     {
@@ -320,7 +338,7 @@
         ]
     },
     {
-        "sr_no": 86,
+        "sr_no": 90,
         "newspaper": "Daily Excelsior",
         "headline": "Atleast 28 killed as Afghan bus hits \u2018Taliban\u2019 bomb: official",
         "link": "https://www.dailyexcelsior.com/atleast-28-killed-as-afghan-bus-hits-taliban-bomb-official/",
@@ -329,22 +347,22 @@
         "detailed_news": "<p>HERAT:\u00a0Dozens of passengers, mainly women and children, were killed in western Afghanistan early Wednesday when the bus they were travelling in hit a roadside bomb, officials said. \u201cA passenger bus travelling on the Kandahar-Herat highway hit a Taliban roadside bomb. So far at least 28 killed, 10 wounded,\u201d said Muhibullah Muhib, the spokesman for Farah [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.dailyexcelsior.com/atleast-28-killed-as-afghan-bus-hits-taliban-bomb-official/\">Atleast 28 killed as Afghan bus hits \u2018Taliban\u2019 bomb: official</a> appeared first on <a rel=\"nofollow\" href=\"https://www.dailyexcelsior.com\">Jammu Kashmir Latest News | Tourism | Breaking News J&amp;K</a>.</p>\n"
     },
     {
-        "sr_no": 91,
-        "newspaper": "Daily Excelsior",
-        "headline": "Pak shelling kills woman in Gurez sector",
-        "link": "https://www.dailyexcelsior.com/pak-shelling-kills-woman-in-gurez-sector/",
-        "brief": "",
-        "date": "Wed, 31 Jul 2019 04:11:59 +0000",
-        "detailed_news": "<p>SRINAGAR : A woman was killed and a Health department employee was injured, after Pakistani troops violated the ceasefire and targeted the forward military post and civilian area at the Line of Control (LoC) in Gurez sector at north Kashmir district of Bandipora, official sources said here on Wednesday. They said after shelling at Tangdhar [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.dailyexcelsior.com/pak-shelling-kills-woman-in-gurez-sector/\">Pak shelling kills woman in Gurez sector</a> appeared first on <a rel=\"nofollow\" href=\"https://www.dailyexcelsior.com\">Jammu Kashmir Latest News | Tourism | Breaking News J&amp;K</a>.</p>\n"
-    },
-    {
-        "sr_no": 98,
+        "sr_no": 100,
         "newspaper": "State Times",
         "headline": "At least 28 killed as Afghan bus hits \u2018Taliban\u2019 bomb: official",
         "link": "http://news.statetimes.in/at-least-28-killed-as-afghan-bus-hits-taliban-bomb-official/",
         "brief": "",
         "date": "Wed, 31 Jul 2019 06:04:17 +0000",
         "detailed_news": "Herat: Dozens of passengers, mainly women and children, were killed in western Afghanistan early Wednesday when the bus they were travelling in hit a roadside bomb, officials said. &#8220;A passenger bus travelling on the Kandahar-Herat highway hit a Taliban roadside bomb. So far at least 28 killed, 10 wounded,&#8221; said Muhibullah Muhib, the spokesman for [&#8230;]"
+    },
+    {
+        "sr_no": 108,
+        "newspaper": "Tribune",
+        "headline": "Pakistan lodges strong protest with India against LoC firing",
+        "link": "https://tribune.com.pk/story/2025032/1-pakistan-lodges-strong-protest-india-loc-firing/",
+        "brief": "",
+        "date": "Wed, 31 Jul 2019 06:58:18 +0000",
+        "detailed_news": "<p>DG ISPR says Pakistan Army will take all measures to protect innocent civilians along LOC from Indian firing</p>\n<p>The post <a rel=\"nofollow\" href=\"https://tribune.com.pk/story/2025032/1-pakistan-lodges-strong-protest-india-loc-firing/\">Pakistan lodges strong protest with India against LoC firing</a> appeared first on <a rel=\"nofollow\" href=\"https://tribune.com.pk\">The Express Tribune</a>.</p>\n"
     },
     {
         "sr_no": 116,
