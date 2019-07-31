@@ -27,7 +27,29 @@
         "detailed_news": "Security forces on Wednesday launched a search operation in Kalsian area of Nowshera in Rajouri district of Jammu and Kashmir. A police official said that two suspects were seen moving in the area located close to Line of Control folowing which joint teams of army and police rushed to the spot. Searches were going-on in<a class=\"moretag\" href=\"https://www.greaterkashmir.com/news/pir-panjal/security-forces-launch-search-operation-in-jks-rajouri/\">Read More</a>"
     },
     {
-        "sr_no": 63,
+        "sr_no": 55,
+        "newspaper": "Dawn",
+        "headline": "US peace envoy for Afghanistan set to resume talks with Taliban: sources",
+        "link": "https://www.dawn.com/news/1497284/us-peace-envoy-for-afghanistan-set-to-resume-talks-with-taliban-sources",
+        "brief": "",
+        "date": "July 31, 2019",
+        "detailed_news": [
+            "US special representative for peace in Afghanistan, Zalmay Khalilzad, will resume peace talks with the Taliban soon, sources with knowledge of the issue said on Wednesday.",
+            "Khalilzad who has, since late last year, held eight rounds of talks with the Taliban to end the 18-year war in Afghanistan, is scheduled to travel to Qatar's capital of Doha from Kabul, via Pakistan.",
+            "\u201cI'm off to Doha, with a stop in Islamabad. In Doha, if the Taliban do their part, we will do ours, and conclude the agreement we have been working on,\u201d Khalilzad said on Twitter.",
+            " ",
+            "Khalilzad, an Afghan-born American diplomat, was appointed last year to negotiate a political settlement with the Taliban, who now control more territory than at any point since their ouster nearly 18 years ago. ",
+            "He arrived in Kabul in July and held meetings with President Ashraf Ghani, top security officials, senior opposition leaders, diplomats, and civil society members to discuss the peace process before striking a deal with the Taliban.",
+            "\u201cWrapping up my most productive visit to Afghanistan since I took this job as Special Rep. The US and Afghanistan have agreed on next steps,\u201d he said on Twitter, adding that a negotiating team and technical support group were being finalised.",
+            "Take a look: Zalmay Khalilzad: the blunt veteran US diplomat leading peace efforts in Afghanistan ",
+            "Two sources with knowledge of the talks said they could conclude with an agreement on the withdrawal of foreign forces in exchange for security guarantees by the Taliban.",
+            "Taliban spokesman Zabihullah Mujahid said some senior members of its negotiating team were travelling to the Indonesian capital of Jakarta, and talks with US officials would resume after they returned to Doha.",
+            "\u201cI can't say when the talks with the United States will start,\u201d he said.",
+            "Senior Taliban leaders met clerics from Indonesia and Pakistan this week to discuss the peace process and the political situation in Afghanistan."
+        ]
+    },
+    {
+        "sr_no": 65,
         "newspaper": "Dawn",
         "headline": "Increased ceasefire violations by Indian troops 'indicate their frustration', says DG ISPR",
         "link": "https://www.dawn.com/news/1497272/increased-ceasefire-violations-by-indian-troops-indicate-their-frustration-says-dg-ispr",
@@ -58,7 +80,7 @@
         ]
     },
     {
-        "sr_no": 64,
+        "sr_no": 66,
         "newspaper": "Dawn",
         "headline": "Monsoon spell: After battling extended power outages, Karachiites hit with water shortage",
         "link": "https://www.dawn.com/news/1497270/monsoon-spell-after-battling-extended-power-outages-karachiites-hit-with-water-shortage",
@@ -84,7 +106,7 @@
         ]
     },
     {
-        "sr_no": 66,
+        "sr_no": 68,
         "newspaper": "Dawn",
         "headline": "North Korea fires two ballistic missiles: South",
         "link": "https://www.dawn.com/news/1497269/north-korea-fires-two-ballistic-missiles-south",
