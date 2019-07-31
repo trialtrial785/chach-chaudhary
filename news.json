@@ -27,7 +27,7 @@
         "detailed_news": "Security forces on Wednesday launched a search operation in Kalsian area of Nowshera in Rajouri district of Jammu and Kashmir. A police official said that two suspects were seen moving in the area located close to Line of Control folowing which joint teams of army and police rushed to the spot. Searches were going-on in<a class=\"moretag\" href=\"https://www.greaterkashmir.com/news/pir-panjal/security-forces-launch-search-operation-in-jks-rajouri/\">Read More</a>"
     },
     {
-        "sr_no": 55,
+        "sr_no": 57,
         "newspaper": "Dawn",
         "headline": "US peace envoy for Afghanistan set to resume talks with Taliban: sources",
         "link": "https://www.dawn.com/news/1497284/us-peace-envoy-for-afghanistan-set-to-resume-talks-with-taliban-sources",
@@ -49,7 +49,7 @@
         ]
     },
     {
-        "sr_no": 65,
+        "sr_no": 67,
         "newspaper": "Dawn",
         "headline": "Increased ceasefire violations by Indian troops 'indicate their frustration', says DG ISPR",
         "link": "https://www.dawn.com/news/1497272/increased-ceasefire-violations-by-indian-troops-indicate-their-frustration-says-dg-ispr",
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "sr_no": 66,
+        "sr_no": 68,
         "newspaper": "Dawn",
         "headline": "Monsoon spell: After battling extended power outages, Karachiites hit with water shortage",
         "link": "https://www.dawn.com/news/1497270/monsoon-spell-after-battling-extended-power-outages-karachiites-hit-with-water-shortage",
@@ -106,39 +106,6 @@
         ]
     },
     {
-        "sr_no": 68,
-        "newspaper": "Dawn",
-        "headline": "North Korea fires two ballistic missiles: South",
-        "link": "https://www.dawn.com/news/1497269/north-korea-fires-two-ballistic-missiles-south",
-        "brief": "",
-        "date": "July 31, 2019",
-        "detailed_news": [
-            "Pyongyang fired two ballistic missiles on Wednesday, Seoul said, days after a similar launch that the nuclear-armed North described as a warning to the South over planned joint military drills with the United States. ",
-            "The two devices were fired from the Wonsan area on the east coast at dawn and flew around 250 kilometres into the sea, said South Korea's Joint Chiefs of Staff. ",
-            "\u201cWe stress a series of missile launches do not help ease tensions in the Korean Peninsula and urge the North to refrain from such acts,\u201d they said in a statement, while the presidential Blue House expressed \u201cstrong concern\u201d.",
-            "The North is banned from ballistic missile launches under United Nations Security Council resolutions but it was the second such firing in less than a week, despite a meeting between leader Kim Jong Un and US President Donald Trump last month. ",
-            "Pyongyang and Washington are engaged in a long-running diplomatic process over the North's nuclear and missile programmes that has seen three high-profile encounters between their leaders in the space of a year. ",
-            "They agreed to resume talks during their impromptu June encounter in the Demilitarised Zone that divides the peninsula, but that working-level dialogue has yet to begin. ",
-            "Pyongyang has warned the negotiations could be derailed by Washington and Seoul's refusal to scrap the annual manoeuvres between their forces. ",
-            "The North has defied years of isolation and sanctions to develop its arsenal and has not given up any of its weapons, while proving itself adept at dragging out discussions. ",
-            "On his way to an Asian regional forum where the North will be high on the agenda \u2014 even though its foreign minister will apparently not attend \u2014 US Secretary of State Mike Pompeo told reporters that the talks had been expected \u201cwithin weeks\u201d but were taking \u201ca little bit longer\u201d to start. ",
-            "There was no immediate comment from Pyongyang on the latest launch, but Harry Kazianis of the Center for the National Interest in Washington said it was a warning to the two security allies to stop the exercises or the North will \"raise tensions to a slow boil over time\". ",
-            "Pyongyang will carry out more launches before the drills begin next week and again afterwards, he predicted. ",
-            "\"The only question is: would the Kim regime dare test an ICBM, or a long-range missile, that could hit the US homeland?\"",
-            "With its short-range launches, Pyongyang was looking to pressure Washington to \u201ccome to the table with more readiness to meet its demands\u201d, added Jeong Young-tae, director of the Institute of North Korean Studies. ",
-            "Last Thursday's missiles travelled much further \u2014 one of them going nearly 700 kilometres \u2014 than Wednesday's, and also reached a higher altitude, 50 kilometres compared to 30. ",
-            "Pyongyang said they were newly designed \u201ctactical guided weapons\u201d that were a \u201csolemn warning to the South Korean warmongers\u201d over the planned military drills with the US. ",
-            "The North also showed off a new submarine last week, which reports on Wednesday cited the South's defence ministry as saying appeared to be capable of carrying three submarine-launched ballistic missiles. ",
-            "Washington stations nearly 30,000 troops in the South to defend it from its neighbour, which invaded in 1950. ",
-            "The devices were widely described as ballistic missiles, including by the US-South Korean Combined Forces Command and the government in Seoul. ",
-            "But Trump \u2014 who has repeatedly touted his relationship with Kim, whose regime is widely accused of human rights abuses \u2014 brushed off the North's bellicose language, saying it was warning Seoul rather than Washington. ",
-            "\u201cHe didn't send a warning to the United States,\u201d Trump said. \u201cThey have their disputes, the two of them have their disputes.\u201d ",
-            "The Korea Times condemned what it called the US president's \u201cwillful ignorance\u201d in an editorial Tuesday, before the latest launches. ",
-            "Trump \"gives the impression that he doesn't mind its missile launches as long as they are short-range, and not threatening the US\", it said. ",
-            "\u201cSuch a way of thinking is frustrating \u2014 and dangerous,\u201d it added. \"Most of all, he can give the wrong signal to the North that the US will not step in as long as it does not target the US mainland. What about US allies in Asia?\""
-        ]
-    },
-    {
         "sr_no": 69,
         "newspaper": "Tribune",
         "headline": "Ceasefire violations indicate India\u2019s frustration: DG ISPR",
@@ -159,7 +126,7 @@
         ]
     },
     {
-        "sr_no": 70,
+        "sr_no": 71,
         "newspaper": "Tribune",
         "headline": "Pakistan lodges strong protest with India against LoC firing",
         "link": "https://tribune.com.pk/story/2025032/1-pakistan-lodges-strong-protest-india-loc-firing/",
@@ -224,6 +191,59 @@
     {
         "sr_no": 74,
         "newspaper": "Tribune",
+        "headline": "Flooding, power cuts pile on misery for Karachi after rain spell",
+        "link": "https://tribune.com.pk/story/2025110/1-flooding-power-cuts-pile-misery-karachi-rain-spell/",
+        "brief": "",
+        "date": "July 31, 2019",
+        "detailed_news": [
+            "KARACHI:\u00a0The heavens stopped pouring and the sun shone down bright as ever but the misery of Karachi and its people continued on Wednesday morning.",
+            "Rising water levels caused the Malir River to overflow and the Korangi Causeway and Korangi Crossing areas were flooded in the morning.",
+            "Traffic flow was nothing but chaotic and the morning work commute turned into an arduous task for citizens, many of whom spent hours on the Baloch Colony Expressway and other roads leading to Korangi Industrial Area.",
+            "The\u00a0situation\u00a0in Korangi was preceded by the early Wednesday morning\u00a0breach at\u00a0the Lath and Thado dams in Gadap Town, which caused\u00a0flooding around the\u00a0Super Highway and its adjacent areas.",
+            "10 dead as incessant rain paralyses Karachi",
+            "The Pakistan Army was called in\u00a0for\u00a0rescue operations in the affected areas which included several residential colonies and the cattle market established along the highway.",
+            "PHOTO: ONLINE",
+            "In a tweet, the city\u2019s power utility, K-Electric, informed citizens that the\u00a0Lath Dam\u2019s overflowing had led to floodwater entering its KDA Grid station in Scheme 33 of Gulzar-e-Hijri.",
+            "Overflow of Lath Dam creates critical situation at KDA Grid. (8)Pakistan Army has come to support our efforts. All possible resources including trenches, water pumps & sand bags around the grid have been deployed to block the water & our teams are on ground to manage situation. pic.twitter.com/27EWjlKv8T",
+            "\u2014 KE (@KElectricPk) July 30, 2019",
+            "Since the station serves as an\u00a0\u201cinterconnection point between KE and NTDC\u201d, power supply was to various parts of Karachi was affected, including Sohrab Goth, Abul Hasan Isphahani Road and Super Highway.",
+            "KE warned that it may be \u201cforced to completely shut down power from this grid\u201d which would impact supply to\u00a0areas including Gulshan, Azizabad, Liaqatabad, Malir, Federal B Area, Surjani Town, Shadman Town and Shah Faisal.",
+            "The power utility later announced on Wednesday evening that \u201cthe threat of the grid coming under water has been averted\u201d owing to the \u201cefforts of KE teams and the Pakistan Army and Rangers\u201d.",
+            "Update on KDA Grid: (1)As a result of the untiring efforts of KE teams and the Pakistan Army and Rangers over several hours, the threat of the grid coming under water has been averted.",
+            "\u2014 KE (@KElectricPk) July 31, 2019",
+            "Rising death toll",
+            "The death toll\u00a0in\u00a0the current spell of rain also climbed to 15 on Wednesday as two deaths caused by electrocution were reported in Shah Latif Town and Moinabad.",
+            "Authorities said the deaths occurred largely due to electrocutions caused by ill-maintained power lines even as large segments of the city suffered hours-long outages that lasted up to a day in some areas.",
+            "According to the Edhi Foundation, up to 15 people were killed during the recent bout of flooding. However, government hospitals in the city said only 12 people had died in recent days in flood-related incidents.",
+            "Outrage simmered in the city after a video went viral on social media showing two children who had been allegedly electrocuted by a power line that had fallen into a puddle.",
+            "\u201cThe electricity company must be held responsible for the children\u2019s death as safety and security is its responsibility,\u201d said Faisal Edhi, who heads the Edhi Foundation.",
+            "Dr Seemi Jamali \u2013 director of the state-run Jinnah Postgraduate Medical University \u2013 confirmed that nine people were \u201cbrought dead\u201d to the hospital because of electrocutions.",
+            "Another three bodies, including the children from the video shared online, were taken to the city\u2019s Abbasi Shaheed Hospital, a doctor on duty at the facility confirmed to AFP.",
+            "The megacity of some 20 million has been inundated with heavy rains since Monday, flooding residential areas and bringing large swathes of Karachi\u2019s perennially traffic-congested streets to a halt.",
+            "\u201cWe are living without electricity and water for the past three days and no official rescue came,\u201d said 24-year-old resident Qaiser Khan.",
+            "Blame game continues",
+            "Amid incessant reports of traffic jams, water accumulation and power outages, officials of the provincial and local governments remained preoccupied with shifting blame from themselves.",
+            "At a press conference on Wednesday morning, Sindh Local Government Minister Saeed Ghani accused \u201cpeople sitting in Islamabad\u201d of unfairly blaming the Sindh government for the post-rain situation.",
+            "\u00a0",
+            "10 killed, 29 injured in five days of torrential rains in K-P",
+            "\u00a0",
+            "He asserted that the Pakistan Peoples Party\u2019s provincial government had done all in its power to avert the crisis. \u201cOur government\u00a0had already\u00a0allocated funds to the tune of Rs125 billion for the cleaning of sewers and stormwater drains. That is why most\u00a0major roads of Karachi were clear for traffic despite the heavy downpour.\u201d",
+            "PHOTO: ONLINE",
+            "Speaking about the rolling power outages, the PPP minister said the provincial government had no mechanism to\u00a0keep a check on the\u00a0\u201cincompetence\u201d of K-Electric. \u201cThe federal government has the power to do that but the reality is there for all of us to see.\u201d",
+            "He also criticised the performance of local government representatives and called for their accountability. \u201cWho is responsible for draining out rainwater and cleaning the city\u2019s drains?\u00a0The mayor of Karachi and his subordinates have failed to not fulfill their responsibilities,\u201d\u00a0said Ghani.",
+            "\u201cWill\u00a0he [Mayor Wasim Akhtar] answer our queries on the\u00a0promises he made about\u00a0a cleanliness drive in Karachi? He should tell us if he can\u2019t handle this job \u2013 we will do what needs to be done.\u201d",
+            "The LG minister also issued a call for all political parties to work together instead of engaging in a \u201cblame game\u201d.",
+            "\u201cWater accumulation is a reality in the most developed of cities. Instead of criticising each other, we should all work together for the people of Karachi.\u201d",
+            "Sindh Chief Minister Syed Murad Ali Shah asserted that the entire provincial government machinery was active and working tirelessly to serve the people of Karachi.",
+            "Speaking to reporters during an inspection visit to different areas, Shah pointed out that all major drains in Karachi were affected by encroachments.",
+            "\u201cThe width of these drains has been reduced to hardly a few feet. This is a recipe for disaster and that is what we have seen repeatedly,\u201d said the CM.",
+            "\u00a0",
+            "\u2013 With additional input from AFP."
+        ]
+    },
+    {
+        "sr_no": 75,
+        "newspaper": "Tribune",
         "headline": "Five dead as bomb rips through police van in Quetta",
         "link": "https://tribune.com.pk/story/2024710/1-least-three-martyred-several-injured-quetta-explosion/",
         "brief": "",
@@ -249,7 +269,7 @@
         ]
     },
     {
-        "sr_no": 75,
+        "sr_no": 76,
         "newspaper": "Tribune",
         "headline": "Judicial reforms advance but many concerns go unattended",
         "link": "https://tribune.com.pk/story/2024981/1-judicial-reforms-advance-many-concerns-go-unattended/",
@@ -281,30 +301,22 @@
         ]
     },
     {
-        "sr_no": 78,
-        "newspaper": "Tribune",
-        "headline": "Karachi faces massive power breakdown after Lath Dam overflow",
-        "link": "https://tribune.com.pk/story/2024831/1-karachi-faces-massive-power-breakdown-lath-dam-overflow/",
+        "sr_no": 83,
+        "newspaper": "Daily Excelsior",
+        "headline": "Dhoni joins Army troops in militancy-infested south Kashmir on 2-week stint",
+        "link": "https://www.dailyexcelsior.com/dhoni-joins-army-troops-in-militancy-infested-south-kashmir-on-2-week-stint/",
         "brief": "",
-        "date": "July 31, 2019",
-        "detailed_news": [
-            "KARACHI:\u00a0Many areas of the city plunged into darkness on Tuesday night after K-Electric, the city\u2019s power utility, suspended supply to feeders associated with the KDA Grid Station at Gulzar-e-Hijri Scheme 33 due to flooding.",
-            "Sohrab Goth, Abul Hassan Isphahani Road, Super Highway and KWSB\u2019s NEK Pumping station among few other areas were the first to be affected, the power distribution company announced on social media.",
-            "\u201cMonsoon downpour has caused Lath Dam near Super Highway to overflow. The floodwater has entered K-Electric\u2019s KDA Grid station, one of the most critical grids of KE\u2019s 220kV grid and an interconnection point between KE and NTDC. As an emergency safety measure we are forced to suspend supply to feeders associated with this grid,\u201d it said.",
-            "Life remains paralysed as rains continue to lash Karachi",
-            "K-Electric warned that it may be forced to completely shut down power from this grid station to ensure safety of the staff and equipment. \u201cWe are working closely with all authorities to control this situation. All possible resources including trenches, water pumps and sand bags around the grid have been deployed to block the water,\u201d it added.",
-            "Overflow of Lath Dam creates critical situation at KDA Grid.(4)",
-            "We are working closely with all authorities to control this situation. All possible resources including trenches, water pumps and sand bags around the grid have been deployed to block the water.",
-            "\u2014 KE (@KElectricPk) July 30, 2019",
-            "However, due to importance of the grid to the KE network, power supply would also be affected to several areas including Gulshan-e-Iqbal, Azizabad, Liaquatabad, Malir, FB Area, Surjani Town, Shadman Town, Gulistan-e-Johar and Shah Faisal Colony among many others if water level continued to rise.",
-            "The K-Electric said the armed forces troops had also arrived on the spot to \u2018support our efforts\u2019. \u201cAll possible resources including trenches, water pumps and sand bags around the grid have been deployed to block the water and our teams are on ground to manage this emergency,\u201d it added.",
-            "Overflow of Lath Dam creates critical situation at KDA Grid. (8)Pakistan Army has come to support our efforts. All possible resources including trenches, water pumps & sand bags around the grid have been deployed to block the water & our teams are on ground to manage situation. pic.twitter.com/27EWjlKv8T",
-            "\u2014 KE (@KElectricPk) July 30, 2019",
-            "The day-to-day life has remained paralysed after the current spell of rainfall lashed the port city for the second consecutive day with at least 15 dead in different rain-related incidents.",
-            "Floodwater entered\u00a0different areas of Manghopir, Saadi Town and Superhighway after Thado and Lath dams overflowed.",
-            "The Emergency Operations Centre (EOC) said that the Pakistan Army was called in to assist with the rescue operation in the affected areas.",
-            "Major parts of Karachi also faced prolonged power outages and some areas remained without electricity for more than 24 hours. Major thoroughfares also remained inundated\u00a0affecting traffic and commute."
-        ]
+        "date": "Wed, 31 Jul 2019 12:41:59 +0000",
+        "detailed_news": "<p>SRINAGAR: Mahendra Singh Dhoni, an honorary lieutenant colonel in the Territorial Army, joined Army troops in the militancy-infested south Kashmir region on Wednesday to carry out patrolling, guard duties and similar responsibilities just like other soldiers. The former Indian cricket team captain will be staying with his 106 TA Battalion (Para) till August 15 and [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.dailyexcelsior.com/dhoni-joins-army-troops-in-militancy-infested-south-kashmir-on-2-week-stint/\">Dhoni joins Army troops in militancy-infested south Kashmir on 2-week stint</a> appeared first on <a rel=\"nofollow\" href=\"https://www.dailyexcelsior.com\">Jammu Kashmir Latest News | Tourism | Breaking News J&amp;K</a>.</p>\n"
+    },
+    {
+        "sr_no": 84,
+        "newspaper": "Daily Excelsior",
+        "headline": "Encounter ensues between militants, security forces in Shopian",
+        "link": "https://www.dailyexcelsior.com/encounter-ensues-between-militants-security-forces-in-shopian/",
+        "brief": "",
+        "date": "Wed, 31 Jul 2019 12:14:34 +0000",
+        "detailed_news": "<p>SRINAGAR: An encounter ensued between militants and security forces in south Kashmir district of Shopian on Wednesday. Official sources said that following specific information about presence of militants, a joint Cordon and Search Operation (CASO) was launched by Special Operations Group (SOG) of state police, Army and CRPF in a village in Shopian. They said [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.dailyexcelsior.com/encounter-ensues-between-militants-security-forces-in-shopian/\">Encounter ensues between militants, security forces in Shopian</a> appeared first on <a rel=\"nofollow\" href=\"https://www.dailyexcelsior.com\">Jammu Kashmir Latest News | Tourism | Breaking News J&amp;K</a>.</p>\n"
     },
     {
         "sr_no": 116,
