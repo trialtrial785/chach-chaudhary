@@ -54,16 +54,31 @@
         "detailed_news": "With trade and geopolitical tensions heating up, UN Secretary-General Antonio Guterres has warned that the world could fracture into two competing blocs &#8211; led by the US and China &#8211; with their own Internet, currency, trade system and military strategy. &#8220;I am troubled by the growing friction among the two largest global economies,&#8221; he told<a class=\"moretag\" href=\"https://www.greaterkashmir.com/news/world/guterres-warns-of-world-fracturing-into-2-competing-systems/\">Read More</a>"
     },
     {
-        "sr_no": 48,
-        "newspaper": "Greater Times",
-        "headline": "'Foiled Pak Army's bid to attack Amarnath Yatra,' Army says with proof",
-        "link": "https://www.hindustantimes.com/india-news/pak-army-ordance-factory-s-mark-on-j-k-mine-dangled-as-proof/story-sRt7uSuiO5qzNrncnBoeGO.html",
+        "sr_no": 59,
+        "newspaper": "Dawn",
+        "headline": "At least 10 Afghan policemen killed in Taliban attack",
+        "link": "https://www.dawn.com/news/1497687/at-least-10-afghan-policemen-killed-in-taliban-attack",
         "brief": "",
-        "date": "Fri, 02 Aug 2019 02:09:54 GMT ",
-        "detailed_news": "Security forces operating in Jammu and Kashmir released pictures of a mine bearing mark of a Pakistan ordnance factory recovered from one of the two Amarnath Yatra routes."
+        "date": "August 02, 2019",
+        "detailed_news": [
+            "The Taliban targeted a police checkpoint in Afghanistan's central province of Day Kundi on Friday, killing at least 10 policemen, provincial officials said.",
+            "The governor of Day Kundi, Anwar Rahmati, said that along with the 10 killed, 15 policemen were also wounded in the attack, which took place in the district of Patu. The insurgents also suffered casualties, he said.",
+            "However, provincial councilman Ghayrat Jawaheri gave a higher death toll, saying 13 policemen were killed in the attack. The different tolls could not immediately be reconciled.",
+            "Read more: How not to fight",
+            "Also on Friday, a second Taliban attack in Day Kundi, this one in Kijran district, left one police officer dead and another wounded, Rahmati said. The district has been \u201cunder the attack of the Taliban since at least one month\u201d, he added.",
+            "Taliban spokesman Qari Yusouf Ahmadi claimed responsibility for the Patu attack but didn't immediately comment on the Kijran assault.",
+            "The Taliban now effectively control half the country and stage near-daily attacks, mainly targeting Afghan security forces and government officials or those they see as siding with the government. Many civilians caught in the crossfire are also killed.",
+            "Since late last year, the insurgents have been meeting with United States envoy Zalmay Khalilzad for talks on finding a peaceful resolution to the nearly 18-year war \u2014 America's longest conflict.",
+            "Khalilzad has shuttled between Kabul, Islamabad and the Gulf Arab state of Qatar, where the Taliban maintain a political office. The Taliban refuse to negotiate directly with the Kabul government, considering it a US puppet.",
+            "On Friday, Khalilzad concluded a two-day visit to Pakistan during which he met with Prime Minister Imran Khan, Foreign Minister Shah Mahmood Qureshi and country's powerful army chief Gen Qamar Javed Bajwa. ",
+            "From Islamabad, he left for Qatar and was expected to be in Doha later in the day for another round of talks with the Taliban.",
+            "The US Embassy in Islamabad said Khalilzad \u201coutlined the positive momentum in the Afghan peace process and next steps\u201d in his meetings with Pakistani officials.",
+            "\u201cThey also discussed the role Pakistan has played in support of the process and additional positive steps Pakistan can take,\u201d the embassy statement said.",
+            "Khalilzad hinted that an agreement between Washington and the Taliban could be reached in the next round of talks."
+        ]
     },
     {
-        "sr_no": 60,
+        "sr_no": 62,
         "newspaper": "Dawn",
         "headline": "US, Russia rip up Cold War-era INF missile treaty",
         "link": "https://www.dawn.com/news/1497685/us-russia-rip-up-cold-war-era-inf-missile-treaty",
@@ -99,7 +114,7 @@
         ]
     },
     {
-        "sr_no": 67,
+        "sr_no": 69,
         "newspaper": "Dawn",
         "headline": "Should Pakistan allow dual citizens to contest elections? Yes",
         "link": "https://www.dawn.com/news/1497675/should-pakistan-allow-dual-citizens-to-contest-elections-yes",
@@ -136,7 +151,23 @@
         ]
     },
     {
-        "sr_no": 76,
+        "sr_no": 77,
+        "newspaper": "Tribune",
+        "headline": "Pakistan would go all-out to support peace efforts in Afghanistan, COAS tells Khalilzad",
+        "link": "https://tribune.com.pk/story/2026775/1-pakistan-go-support-peace-efforts-afghanistan-coas-tells-khalilzad/",
+        "brief": "",
+        "date": "August 2, 2019",
+        "detailed_news": [
+            "Pakistan will support all efforts for peace in war-torn Afghanistan, army chief General Qamar Bajwa has said.",
+            "\u201cPakistan will play its role to enhance all efforts for peace towards fullest potential,\u201d the military\u2019s media wing, ISPR quoted the COAS as saying following his meeting US special envoy Zalmay Khalilzad on Friday.",
+            "The two met as part of ongoing discussions and efforts for success of the peace process in Afghanistan.",
+            "According to the ISPR, the steps taken with regards to end the 18-year-old war in Afghanistan were discussed. \u201c[They] agreed to continue working towards mutually agreed goals,\u201d the communiqu\u00e9 read.",
+            "Khalilzad, the statement added, appreciated Pakistan\u2019s \u201cwhole hearted support to the process and expressed hope that others would follow in same vein\u201d.",
+            "The meeting comes a day after Pakistan briefed the US President\u2019s point person for Afghanistan about the steps taken by Islamabad, following the Prime Minister\u2019s visit to Washington, to persuade the Afghan Taliban for permanent ceasefire and intra-Afghan dialogue."
+        ]
+    },
+    {
+        "sr_no": 78,
         "newspaper": "Tribune",
         "headline": "Bizenjo\u2019s remarks about ISI chief unfounded: ISPR DG",
         "link": "https://tribune.com.pk/story/2026312/1-bizenjos-remarks-isi-chief-unfounded-ispr-dg/",
@@ -159,7 +190,7 @@
         ]
     },
     {
-        "sr_no": 78,
+        "sr_no": 80,
         "newspaper": "Tribune",
         "headline": "Pakistan pushes Taliban for 'permanent ceasefire, intra-Afghan dialogue'",
         "link": "https://tribune.com.pk/story/2026111/1-qureshi-says-pakistan-will-continue-play-supportive-role-afghan-peace-process/",
@@ -189,30 +220,7 @@
         ]
     },
     {
-        "sr_no": 81,
-        "newspaper": "Tribune",
-        "headline": "The road ahead",
-        "link": "https://tribune.com.pk/story/2026129/6-the-road-ahead/",
-        "brief": "",
-        "date": "August 2, 2019",
-        "detailed_news": [
-            "While there are differing views about the PM\u2019s recent US visit, any realistic assessment must recognise two undeniable positive outcomes: one, that instead of the usual American mantra to \u201cdo more\u201d against the Taliban, Pakistan is being asked to facilitate an Afghan peace settlement through dialogue which is consistent with Pakistan\u2019s own policy; and, two, Trump\u2019s previous South Asia strategy of relying on India to secure Afghanistan has been replaced by recognition of Pakistan\u2019s central role in this process. Therefore, the dynamics of the Pakistan-US relations have changed from confrontation to cooperation. The key to developing a sustainable partnership will, however, depend upon the ability of both sides to resolve the Afghan conflict. This is by no means certain, as the road ahead has several obstacles to be overcome.",
-            "The most serious challenge will be to reach and implement a sustainable Afghan peace settlement. With Pakistan\u2019s crucial assistance, the US-Taliban talks have made significant progress, involving timeframe for US troop withdrawal and Taliban commitment to eliminate terrorism from the Afghan soil. But the Americans also want the Taliban to engage in direct talks with the Afghan government and accept a ceasefire, for which they seek Pakistan\u2019s help to persuade the Taliban. It remains to be seen whether Pakistan can do so in the forthcoming talks with the Taliban leadership. So far, the Taliban have only agreed to an intra-Afghan dialogue and not just with the Afghan government, after the US withdrawal agreement has been announced. None of the sides have agreed to a ceasefire either. Meanwhile, an \u201cunofficial\u201d intra-Afghan dialogue in July reached agreement on a \u201croadmap\u201d for peace in Afghanistan. This meeting was the continuation of efforts by Pakistan, the US, Russia and China. But the details of the roadmap still need to be worked out and implemented. Given the continuing differences among the Afghans on issues such as power sharing and the mechanism for the transition to a broad-based government as well as the baggage of the past ethnic and sectarian rivalries, implementation of the road-map will face serious difficulties.",
-            "There could also be the negative role of spoilers like India and perhaps, Iran. While the latter could be brought on board on the grounds that they want to ensure the US forces exit from their neighbourhood, the former has a vested interest in preventing any role for the Taliban in a future Afghan government since they view the Taliban as Pakistan\u2019s allies. Moreover, having been effectively dealt out of an Afghan agreement, India does not want an Afghan settlement that would help improve the Pakistan-US relations. For these reasons, India could use its Afghan allies to scuttle an agreement.",
-            "Another challenge confronting Pakistan is the negative role of the American establishment which has used Pakistan as a scapegoat for its failure in Afghanistan. Its negative narrative continues to allege that Pakistan has \u201cdeceived\u201d the US and wants to use the Taliban to \u201ccontrol\u201d Afghanistan. Due to this hostility, no joint statement could be agreed upon during the PM\u2019s visit. Allied to the establishment is the Indo-American lobby in the US Congress, media and think-tanks.",
-            "There is also the danger that a rogue terrorist attack on US troops in Afghanistan, or a false-flag Indian operation within India or occupied Kashmir could be blamed on Pakistan and may derail Pakistan\u2019s improving relations with the US. The Indians are quite capable of using their terrorist proxies like the TTP and the BLA to carry out such subversion. The \u201cterrorism\u201d issue which was noticeably on the back burner during the PM\u2019s meeting with Trump could resurface and deviate from the real focus on an Afghan settlement.",
-            "From a broader perspective, both countries would face the challenge of reconciling their respective approaches to each other. While Pakistan continues to seek a long-term strategic partnership with the US, the Americans are pursuing the short-term tactical goal of an Afghan settlement with Pakistan\u2019s help. Moreover, in the growing rivalry between the US and China, Washington has engaged in a strategic partnership with New Delhi to contain China, whereas Islamabad maintains a strategic relationship with Beijing.",
-            "To overcome these diverse challenges, Pakistan must, first of all, use every available leverage with the Afghans, including the Taliban, to conclude and implement a sustainable peace agreement in that country. At the same time, we need to be clear that we can only persuade but cannot compel the Afghans to resolve their differences. To strengthen our efforts, we must also involve like-minded countries, especially China and Russia, to achieve an Afghan accord. Such a concerted effort would also be useful to defeat Indian machinations to derail the process.",
-            "Firm control would be needed against rogue elements within the country to overcome the charge of terrorism and prevent the realignment with the US from being derailed. This would also help Pakistan get off the FATF grey list and the UN\u2019s terrorism listing. To demonstrate its cooperation, the US has also acted against the BLA which is a positive development. Concurrently, Pakistan needs to highlight the Indian and Afghan role in supporting terrorism through the TTP and the BLA, especially in view of the recent attacks on our troops.",
-            "The PM\u2019s personal rapport with Trump together with direct lines of communication with the White House would help neutralise the hostile American administration and anti-Pakistan lobbies. Success on the Afghan issue will further neutralise these critics.",
-            "With regard to the global strategic context, Pakistan ought to position itself to benefit from the dynamics of superpower confrontation. Pakistan\u2019s geopolitical location and possession of nuclear weapons are attributes that the US cannot ignore. Similarly, our strategic partnership with China, especially the implementation of CPEC, is a major factor for Pakistan\u2019s security and stability. Moreover, beyond the Afghan issue, the US would still need Pakistan\u2019s cooperation for counterterrorism and the larger interest of regional peace and security.",
-            "A good beginning has been made by the PM\u2019s visit to reset relations with the US. Now we need to move forward on the road ahead.",
-            "Published in The Express Tribune, August 2nd, 2019.",
-            "Like Opinion & Editorial on Facebook, follow @ETOpEd on Twitter to receive all updates on all our daily pieces."
-        ]
-    },
-    {
-        "sr_no": 83,
+        "sr_no": 84,
         "newspaper": "Tribune",
         "headline": "PM Imran's 'official working visit' to US costs only Rs11m to exchequer",
         "link": "https://tribune.com.pk/story/2025326/1-pm-imrans-official-working-visit-us-costs-rs11m-exchequer/",
@@ -236,15 +244,6 @@
         ]
     },
     {
-        "sr_no": 95,
-        "newspaper": "Daily Excelsior",
-        "headline": "83 pc of youth who become militants are involved in stone pelting: Army",
-        "link": "https://www.dailyexcelsior.com/83-pc-of-youth-who-become-militants-are-involved-in-stone-pelting-army/",
-        "brief": "",
-        "date": "Fri, 02 Aug 2019 11:27:59 +0000",
-        "detailed_news": "<p>SRINAGAR: Urging parents, particularly mothers, to discourage their children from pelting stone on security forces, a top Army commander on Friday said that 83 per cent of the youth who become militants are involved in stone pelting. Lieutenant General KJS Dhillon, General Officer Commanding (GOC) of Army&#8217;s 15 Corps also reiterated his appeal asking local [&#8230;]</p>\n<p>The post <a rel=\"nofollow\" href=\"https://www.dailyexcelsior.com/83-pc-of-youth-who-become-militants-are-involved-in-stone-pelting-army/\">83 pc of youth who become militants are involved in stone pelting: Army</a> appeared first on <a rel=\"nofollow\" href=\"https://www.dailyexcelsior.com\">Jammu Kashmir Latest News | Tourism | Breaking News J&amp;K</a>.</p>\n"
-    },
-    {
         "sr_no": 99,
         "newspaper": "State Times",
         "headline": "Pak-based terrorists planning to target Amarnath Yatra: Army",
@@ -252,5 +251,14 @@
         "brief": "",
         "date": "Fri, 02 Aug 2019 12:03:42 +0000",
         "detailed_news": "Srinagar: Pakistan-based terrorists are planning to target the Amarnath Yatra in the Kashmir Valley but security forces are up to the task to foil any such design, the army said on Friday. General Officer Commanding of Army&#8217;s 15 Corps Lt General KJS Dhillon&#8217;s statement came after searches in the past few days by security forces [&#8230;]"
+    },
+    {
+        "sr_no": 107,
+        "newspaper": "Tribune",
+        "headline": "Pakistan would go all-out to support peace efforts in Afghanistan, COAS tells Khalilzad",
+        "link": "https://tribune.com.pk/story/2026775/1-pakistan-go-support-peace-efforts-afghanistan-coas-tells-khalilzad/",
+        "brief": "",
+        "date": "Fri, 02 Aug 2019 15:47:58 +0000",
+        "detailed_news": "<p>US special envoy discusses Afghan reconciliation with COAS</p>\n<p>The post <a rel=\"nofollow\" href=\"https://tribune.com.pk/story/2026775/1-pakistan-go-support-peace-efforts-afghanistan-coas-tells-khalilzad/\">Pakistan would go all-out to support peace efforts in Afghanistan, COAS tells Khalilzad</a> appeared first on <a rel=\"nofollow\" href=\"https://tribune.com.pk\">The Express Tribune</a>.</p>\n"
     }
 ]
