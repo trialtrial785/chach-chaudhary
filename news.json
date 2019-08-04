@@ -63,21 +63,43 @@
         "detailed_news": "The Indian Army has offered to the Pakistan military to take possession of bodies of the intruders who were killed when it foiled an attack by Border Action Team (BAT) in Keran sector of Jammu and Kashmir, official sources said Sunday. The sources said here that the Pakistan Army has been asked to approach the<a class=\"moretag\" href=\"https://www.greaterkashmir.com/news/india/indian-army-asks-pak-military-to-take-possession-of-bodies-after-failed-bat-action/\">Read More</a>"
     },
     {
-        "sr_no": 45,
+        "sr_no": 49,
         "newspaper": "Greater Times",
         "headline": "Indian Army asks Pak to take home bodies of militants killed, Islamabad responds",
         "link": "https://www.hindustantimes.com/india-news/indian-army-offers-to-return-bodies-of-pakistanis-killed-in-jk-s-keran-area/story-C4CJjJMlIcfISnAWemDN5H.html",
         "brief": "",
-        "date": "Sun, 04 Aug 2019 10:55:12 GMT ",
+        "date": "Sun, 04 Aug 2019 10:59:55 GMT ",
         "detailed_news": "Indian army sources said the Pakistani army has been asked to approach with a white flag and take over the bodies for last rites. "
     },
     {
-        "sr_no": 61,
+        "sr_no": 60,
+        "newspaper": "Dawn",
+        "headline": "'Nation is indebted to martyrs': President, army chief honour police on Police Martyrs Day",
+        "link": "https://www.dawn.com/news/1498064/nation-is-indebted-to-martyrs-president-army-chief-honour-police-on-police-martyrs-day",
+        "brief": "",
+        "date": "August 04, 2019",
+        "detailed_news": [
+            "Special prayers and ceremonies were held to honour policemen who laid down their lives in the line of duty as the country observed Police Martyrs Day on Sunday.",
+            "The day is marked every year on August 4, which is the death anniversary of Frontier Constabulary inspector general Safwat Ghayyur, who was martyred in a suicide attack near his office in 2010.",
+            "President Arif Alvi, in a statement released today, said that the nation is \"indebted to martyrs who laid down their lives for security of the country\". ",
+            " ",
+            "\"Despite difficult situation and limited resources, the police have played an exemplary role in the establishment of peace and protecting the lives of people,\" Radio Pakistan quoted him as saying.",
+            "Army Chief Gen Qamar Javed Bajwa also paid tribute to police officers who sacrificed their lives while serving in the force and also expressed solidarity with their families.",
+            "\"Salute to martyrs of Pakistan Police & their families on Police Martyrs Day. Pakistan Police over the years has proved to be a strong professional force. Pakistan Police has made phenomenal contributions alongside other security forces in counter terrorism operations,\" Inter-Services Public Relations' official Twitter account quoted him as saying.",
+            " ",
+            "Interior Minister Ijaz Shah lauded the services of the martyred police officers and said their sacrifices are \"testimony to the fact that Pakistan is in safe hands\".",
+            " ",
+            "\"Police [are] always ready to lay down their lives for dignity and survival of the country,\" Shah added.",
+            "Special events and vigils were held in all provincial capitals, where police chiefs and government officials paid tributes to the martyrs for their efforts to combat terrorism and ensure peace and security of the people."
+        ]
+    },
+    {
+        "sr_no": 63,
         "newspaper": "Dawn",
         "headline": "Iran seizes third foreign ship in less than a month",
         "link": "https://www.dawn.com/news/1498065/iran-seizes-third-foreign-ship-in-less-than-a-month",
         "brief": "",
-        "date": "August 04, 2019",
+        "date": "Updated August 04, 2019",
         "detailed_news": [
             "Iran has seized a \"foreign vessel\" in the Gulf, state media said on Sunday, in what would be the third such seizure in a month amid heightened tensions with its foe the United States.",
             "Naval forces of the Islamic Revolutionary Guard Corps \"seized this ship around Farsi Island which was carrying around 700,000 litres of smuggled fuel\", said a Guards statement quoted by the official news agency IRNA.",
@@ -103,7 +125,7 @@
         ]
     },
     {
-        "sr_no": 62,
+        "sr_no": 64,
         "newspaper": "Dawn",
         "headline": "MNA Ali Zaidi launches Clean Karachi drive, pledges to bring waste down to zero",
         "link": "https://www.dawn.com/news/1498062/mna-ali-zaidi-launches-clean-karachi-drive-pledges-to-bring-waste-down-to-zero",
@@ -128,14 +150,15 @@
         ]
     },
     {
-        "sr_no": 64,
+        "sr_no": 66,
         "newspaper": "Dawn",
-        "headline": "PM Imran summons NSC meeting after India fires cluster munitions on civilian areas along LoC",
-        "link": "https://www.dawn.com/news/1498058/pm-imran-summons-nsc-meeting-after-india-fires-cluster-munitions-on-civilian-areas-along-loc",
+        "headline": "NSC meeting summoned after India fires cluster munitions on civilian areas along LoC",
+        "link": "https://www.dawn.com/news/1498058/nsc-meeting-summoned-after-india-fires-cluster-munitions-on-civilian-areas-along-loc",
         "brief": "",
         "date": "Updated August 04, 2019",
         "detailed_news": [
             "Prime Minister Imran Khan on Sunday summoned a meeting of the National Security Committee (NSC) in the wake of the Indian army's use of cluster ammunition to target the civilian population in Azad Jammu and Kashmir (AJK) across the Line of Control (LoC) in violation of the Geneva Convention and international law.",
+            "Defence Minister Pervez Khattak, Foreign Minister Shah Mahmood Qureshi, Army Chief General Qamar Javed Bajwa, and other top civil and military leaders attended the meeting.",
             "In a major escalation in the ceasefire violations, India has begun using cluster munitions on civilian population living close to the LoC. The use of cluster bombs on the Neelum Valley over the past few days has caused multiple fatalities and injuries to several others, including minor children.",
             "Over the past few years, besides a spike in terms of intensity of ceasefire breaches, India has also resorted to calibre escalation and air space violations along LoC. The use of cluster bomb is therefore a step further towards escalation in the situation along LoC.",
             "Read: Indian army used cluster ammunition along LoC in violation of international laws: ISPR",
@@ -176,7 +199,7 @@
         ]
     },
     {
-        "sr_no": 67,
+        "sr_no": 69,
         "newspaper": "Dawn",
         "headline": "Iran general says chances of Gulf conflict decreasing",
         "link": "https://www.dawn.com/news/1498059/iran-general-says-chances-of-gulf-conflict-decreasing",
@@ -194,7 +217,7 @@
         ]
     },
     {
-        "sr_no": 69,
+        "sr_no": 71,
         "newspaper": "Dawn",
         "headline": "US, Taliban push for peace in second day of talks",
         "link": "https://www.dawn.com/news/1498057/us-taliban-push-for-peace-in-second-day-of-talks",
@@ -227,7 +250,7 @@
         ]
     },
     {
-        "sr_no": 71,
+        "sr_no": 73,
         "newspaper": "Dawn",
         "headline": "Editorial: Does Modi plan to throw all democratic conventions to the wind to appease his populist voter base?",
         "link": "https://www.dawn.com/news/1498054/editorial-does-modi-plan-to-throw-all-democratic-conventions-to-the-wind-to-appease-his-populist-voter-base",
@@ -248,7 +271,7 @@
         ]
     },
     {
-        "sr_no": 74,
+        "sr_no": 76,
         "newspaper": "State Times",
         "headline": "Pak Army denies Indian claim of cross-LoC incursion",
         "link": "http://news.statetimes.in/pak-army-denies-indian-claim-of-cross-loc-incursion/",
@@ -257,12 +280,12 @@
         "detailed_news": "Islamabad: The Pakistan Army has denied the Indian claim about action by Pakistani army regulars and militants across the Line of Control and that their bodies were lying on the Indian side. The Indian Army Saturday said that it has foiled an attack by Pakistan&#8217;s Border Action Team (BAT) on a forward post along the [&#8230;]"
     },
     {
-        "sr_no": 88,
+        "sr_no": 90,
         "newspaper": "Tribune",
-        "headline": "Tunisia kills two militants in military operation",
-        "link": "https://tribune.com.pk/story/2027820/3-tunisia-kills-two-militants-military-operation/",
+        "headline": "Police department honours sacrifices of officials on Martyrs Day",
+        "link": "https://tribune.com.pk/story/2027880/1-police-department-honours-sacrifices-officials-martyrs-day/",
         "brief": "",
-        "date": "Sun, 04 Aug 2019 10:11:45 +0000",
-        "detailed_news": "<p>The militants were shot dead in 'anti-terrorist' operation led by the national guard and army units</p>\n<p>The post <a rel=\"nofollow\" href=\"https://tribune.com.pk/story/2027820/3-tunisia-kills-two-militants-military-operation/\">Tunisia kills two militants in military operation</a> appeared first on <a rel=\"nofollow\" href=\"https://tribune.com.pk\">The Express Tribune</a>.</p>\n"
+        "date": "Sun, 04 Aug 2019 11:11:34 +0000",
+        "detailed_news": "<p>President, COAS and others appreciate efforts of the police department </p>\n<p>The post <a rel=\"nofollow\" href=\"https://tribune.com.pk/story/2027880/1-police-department-honours-sacrifices-officials-martyrs-day/\">Police department honours sacrifices of officials on Martyrs Day</a> appeared first on <a rel=\"nofollow\" href=\"https://tribune.com.pk\">The Express Tribune</a>.</p>\n"
     }
 ]
